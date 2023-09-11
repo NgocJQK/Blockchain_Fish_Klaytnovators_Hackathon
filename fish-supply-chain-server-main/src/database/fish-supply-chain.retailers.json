@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "6486e64e7084780d4fc54846"
+  },
+  "distributorId": {
+    "$oid": "6486e5db7084780d4fc544ef"
+  },
+  "speciesName": "Fish fillets",
+  "description": "<p>Description</p>",
+  "retailerPurchaseOrderID": "0x6786b60989bafdaf684841f4deae13d2f74adca49bba8e91e3f5db97604649fc",
+  "processedFishPurchaseOrderID": "0x4ade5bd981cdce8606f141f64fb434fb4b56d00ca163e17a979fa42e65ad3d06",
+  "numberOfFishPackagesOrdered": 50,
+  "buyer": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "seller": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "owner": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-11T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-06-21T17:00:00.000Z"
+  },
+  "numberOfPackets": 3,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUvoZYCinF3pBN2GbzSXFCFtC4pxEgi7Bcx2Y7g9vEM1H",
+  "disable": true,
+  "listing": false,
+  "transactionHash": "0x160b8ca83582f80006265efd70c89d701edcd6697a52aa3152527c0d38a00658",
+  "createdAt": {
+    "$date": "2023-06-12T09:33:02.886Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-22T10:18:32.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d577606b14db309394fe9"
+  },
+  "distributorId": {
+    "$oid": "649d532806b14db3093941c6"
+  },
+  "speciesName": "CÁ HỒI HỮU CƠ",
+  "description": "<h3><strong>Thông tin sản phẩm</strong></h3><p>&nbsp;</p><p>Theo đánh giá của các chuyên gia ẩm thực, cá hồi hữu cơ Na Uy có chất lượng tốt nhất thế giới, biến đây trở thành quốc gia có số lượng xuất khẩu cá hồi khổng lồ. Cá hồi ở Na Uy sinh sống trong làn nước sạch tự nhiên, có nhiệt độ từ 5-10 độ C của Bắc Âu và được nuôi nhốt trong các lồng quây giữa đại dương. Nhờ đó, chúng có được điều kiện phát triển tự nhiên nhất, cơ thể chứa hàm lượng chất béo và chất đạm đặc biệt giúp chống chọi, thích nghi với nước biển cực lạnh tại vùng biển Bắc Đại Tây Dương. Đây cũng là lý do cá hồi Nauy cho chất lượng thịt tốt nhất thế giới.</p><p>Cá hồi Na Uy được chăn nuôi theo tiêu chuẩn khắt khe với những tiêu chuẩn vượt trội từ chất lượng con giống đầu vào, thức ăn cho cá đến chất lượng đầu ra thành phẩm tuyệt đối không sử dụng chất bảo quản. Chính vì vậy chất lượng cá thơm ngon và béo hơn, hàm lượng các chất dinh dưỡng cao hơn so với các loại cá hồi nhập từ Nhật Bản, Chilê.</p><p>Cá hồi fillet Na Uy tươi có màu tự nhiên, không đỏ hồng. Các mô liên kết của cá hồi cùng vân mỡ xen đều đặn, mạch lạc. Cá không có mùi hôi, khó chịu.</p><p>Cá hồi hữu cơ Na Uy fillet tại Tomita Mart được đóng gói, bảo quản trong môi trường đông lạnh nhưng vẫn giữ được hàm lượng dinh dưỡng và độ tươi ngon hoàn hảo. Các mẹ an tâm mua về để chế biến bữa cơm cho gia đình.</p><p>Hạn sử dụng của cá hồi hữu cơ Nauy fillet: 3 ngày bảo quản trong ngăn mát tủ lạnh.</p>",
+  "retailerPurchaseOrderID": "0x7b4b87623fa031032a8b1e16e2389f585e3bae3a28c85713d97dd80afd2cba79",
+  "processedFishPurchaseOrderID": "0x2c441c5c57b4ee8b02d988a36eeb5824785e202d0f0023e5cf11bb729db52223",
+  "numberOfFishPackagesOrdered": 23,
+  "buyer": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "seller": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "owner": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-12-04T17:00:00.000Z"
+  },
+  "numberOfPackets": 23,
+  "filletsInPacket": 1,
+  "IPFSHash": "QmfLcZdNaDA2B2eeJ8eeAQ4CXcSV8aVv6DTVW1bModeGei",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmad32EtTSuDzuvPx5FNGL9xEGqT4EcRmKk89JB68ctjH8",
+  "disable": false,
+  "listing": true,
+  "transactionHash": "0xf1f2b945c2c90762066ae5e66c2e0742e7bda8952b7935c7f688d6b20062188c",
+  "createdAt": {
+    "$date": "2023-06-29T10:05:42.781Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T04:18:17.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d57a206b14db3093950a7"
+  },
+  "distributorId": {
+    "$oid": "649d549d06b14db309394457"
+  },
+  "speciesName": "CÁ BASA FILLET 200G",
+  "description": "<p>Cá basa fillet đông lạnh có hương vị đặc trưng, thịt dày, thơm đậm đà đầy hấp dẫn, dùng để chế biến nhiều món ăn ngon, bổ dưỡng. Cá basa có chứa nhiều protein, nhiều chất khoáng quan trọng và có gần đủ các loại vitamin, đặc biệt nhiều vitamin A và D trong gan cá và một số vitamin nhóm B. Hơn thế, cá basa còn là loài có giá trị dinh dưỡng cao vì chứa nhiều chất đạm, ít béo, nhiều EPA và DHA, ít cholesterol. Sản phẩm có thể chế biến thành các món như chiên, rán, sốt cà chua, thả ăn cùng lẩu… thơm ngon, phù hợp với khẩu vị của các thành viên trong gia đình. Sản phẩm đã được sơ chế qua, giúp tiết kiệm thời gian chế biến cho các bà nội trợ.<br>&nbsp;</p>",
+  "retailerPurchaseOrderID": "0x061a701675c72d634aab3297eb523178b02bcd99f8408eb5f5090676b02ed1b8",
+  "processedFishPurchaseOrderID": "0x80d9cb833e6b8a24f56b0c03a89f9c25bbea9540d483e095323862404ea3f70c",
+  "numberOfFishPackagesOrdered": 56,
+  "buyer": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "seller": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "owner": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-29T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-11T17:00:00.000Z"
+  },
+  "numberOfPackets": 56,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdEbJEakA2ZjC2DEa5Tx1WvL2LfFituZRatp2dGFmyKoa",
+  "disable": false,
+  "listing": false,
+  "transactionHash": "0x555514989dab9ac5c6aeb0fa2d018ef4885949e47ced565d60e2a329110bb52b",
+  "createdAt": {
+    "$date": "2023-06-29T10:06:26.630Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-29T10:11:05.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d57b606b14db30939514d"
+  },
+  "distributorId": {
+    "$oid": "649d551a06b14db3093945ec"
+  },
+  "speciesName": "Cá trê phi lê",
+  "description": "<p>Phi lê cá tra là phần thịt của cá đã được cắt theo chiều dọc một bên của cá song song với xương sống. <strong>Thịt cá tra phi lê hồng là loại thịt cá tra đã được bỏ da, không xương, bỏ thịt đỏ, bỏ dè, bỏ mỡ</strong>. Lúc nấu <strong>thịt cá phile hồng</strong>, khi chín chúng sẽ có màu sắc tương tự ngà voi. Cá Tra của chúng tôi là loại cá được thu hoạch tại các bè nuôi cá trên sông hoặc trong các ao nuôi ở khu vực tỉnh An Giang, Đồng Tháp, Cần Thơ. Khi nuôi áp dụng đầy dủ quy trình nuôi hiện đại để làm hàng xuất khẩu đi nhiều nước trên thế giới. Cá Tra tại Việt Nam đang được nuôi bằng ngũ cốc đậu nành để đảm bảo chất lượng theo tiêu chuẩn quốc tế, kết cấu thịt, và hương vị của miếng cá.</p>",
+  "retailerPurchaseOrderID": "0x79b5182fa041b2a234e66fdf57306207062894e3845a9c0f3e0f31eba8abc297",
+  "processedFishPurchaseOrderID": "0x11e85d0c38aa6f612572e758851d0d41fbbc81ac2da625c2e070cebd0d8faa91",
+  "numberOfFishPackagesOrdered": 5,
+  "buyer": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "seller": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "owner": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-11-15T17:00:00.000Z"
+  },
+  "numberOfPackets": 5,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmaKSadZbr9yttybDrgrCJ4Sntr4hJCsz7P1njatB534X4",
+  "disable": false,
+  "listing": false,
+  "transactionHash": "0xe2843b3ca6e620691f9bb1c1589a6e62e01a95790bee65a4f53b1137b98af94f",
+  "createdAt": {
+    "$date": "2023-06-29T10:06:46.254Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-29T10:11:26.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d57ca06b14db3093951eb"
+  },
+  "distributorId": {
+    "$oid": "649d537206b14db309394338"
+  },
+  "speciesName": "Cá Basa fillet",
+  "description": "<h2><strong>Mô tả</strong></h2><p><strong>Quy Cách:&nbsp;</strong>500g/gói, 1000g /gói</p><p><strong>Bảo quản:&nbsp;</strong>Bảo quản trong ngăn đá tủ lạnh hay ở nhiệt độ -20°C± 2</p><p><strong>Thành phần:&nbsp;</strong>Thịt cá basa 100%</p><p><strong>Hướng dẫn sử dụng:</strong></p><p>– Rã đông tự nhiên</p><p>– Dùng để chiên, bỏ lẩu, tẩm bột, kết hợp được nhiều món</p><p>– Dùng với nước tương hay tương ớt. Dùng để nấu canh, lẩu các loại.</p>",
+  "retailerPurchaseOrderID": "0x9ef3f5451ebaf2d450af501b68ff53882388467965868f6640b5662e85c14233",
+  "processedFishPurchaseOrderID": "0x5e1757770698f64d4107ac031fd9c9ec1657c001123d6db9644594c694bae1d6",
+  "numberOfFishPackagesOrdered": 2,
+  "buyer": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "seller": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "owner": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-05T17:00:00.000Z"
+  },
+  "numberOfPackets": 2,
+  "filletsInPacket": 3,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYM3qWmCwXF2qKNjnBKhfDJtPnAunArWLUw7FzLD8VDn1",
+  "disable": false,
+  "listing": true,
+  "transactionHash": "0xdf0f4cca60822881a28e12ed36243409f709a141501ebaaf0166147fabbb238b",
+  "createdAt": {
+    "$date": "2023-06-29T10:07:06.406Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T09:34:06.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d580006b14db309395319"
+  },
+  "distributorId": {
+    "$oid": "649d538b06b14db3093943bf"
+  },
+  "speciesName": "Cá Trắm Giòn",
+  "description": "<p>Cá Trắm Giòn Fillet (cá Giòn Fillet)</p><p>Sản xuất đóng gói: Công ty Phúc Thịnh</p><p>Qui cách: 500gr/vỉ và miếng 1/2 con cá</p><p>Bảo quản:&nbsp; -180C hoặc ngăn đá tủ lạnh</p><p>Hạn sử dụng: 1 năm kể từ ngày sản xuất</p>",
+  "retailerPurchaseOrderID": "0x178982488cf7466d29873a84cd4d17289b99e808b38bb360e3974a90b4f17662",
+  "processedFishPurchaseOrderID": "0xfef7cc11e255b90d1ffc6d145a9519a61ab04c4b0406021927a129e046f63780",
+  "numberOfFishPackagesOrdered": 4,
+  "buyer": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "seller": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "owner": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-19T17:00:00.000Z"
+  },
+  "numberOfPackets": 2,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYbcFhM6hfmtr2hk5t9iLqFSk3gZPER4wi7hxuh8B7bdx",
+  "disable": false,
+  "listing": true,
+  "transactionHash": "0x0d0e0ef4bef9e25e0c1e3d2bca1ffd26be2df0e2c8c598d1b837e9dfcebd33b0",
+  "createdAt": {
+    "$date": "2023-06-29T10:08:00.513Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T09:34:05.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d3904f364717d24c0d9faa"
+  },
+  "distributorId": {
+    "$oid": "649d551a06b14db3093945ec"
+  },
+  "speciesName": "Cá trê phi lê",
+  "description": "<p>Phi lê cá tra là phần thịt của cá đã được cắt theo chiều dọc một bên của cá song song với xương sống. <strong>Thịt cá tra phi lê hồng là loại thịt cá tra đã được bỏ da, không xương, bỏ thịt đỏ, bỏ dè, bỏ mỡ</strong>. Lúc nấu <strong>thịt cá phile hồng</strong>, khi chín chúng sẽ có màu sắc tương tự ngà voi. Cá Tra của chúng tôi là loại cá được thu hoạch tại các bè nuôi cá trên sông hoặc trong các ao nuôi ở khu vực tỉnh An Giang, Đồng Tháp, Cần Thơ. Khi nuôi áp dụng đầy dủ quy trình nuôi hiện đại để làm hàng xuất khẩu đi nhiều nước trên thế giới. Cá Tra tại Việt Nam đang được nuôi bằng ngũ cốc đậu nành để đảm bảo chất lượng theo tiêu chuẩn quốc tế, kết cấu thịt, và hương vị của miếng cá.</p>",
+  "retailerPurchaseOrderID": "0x1245c0eb65cd32cac09fb3cfbd19af6040d349d686f843f205ee4bd3983dc569",
+  "processedFishPurchaseOrderID": "0x11e85d0c38aa6f612572e758851d0d41fbbc81ac2da625c2e070cebd0d8faa91",
+  "numberOfFishPackagesOrdered": 4,
+  "buyer": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "seller": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "owner": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-11-15T17:00:00.000Z"
+  },
+  "numberOfPackets": 4,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmaKSadZbr9yttybDrgrCJ4Sntr4hJCsz7P1njatB534X4",
+  "disable": false,
+  "listing": false,
+  "transactionHash": "0x60f54e70cb8eb3706d403bc7658b35d81159aa6b022b78bf2626689f1a03218e",
+  "createdAt": {
+    "$date": "2023-08-09T13:10:39.567Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T13:36:59.294Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "64d396a4785de56a4665b266"
+  },
+  "distributorId": {
+    "$oid": "649d549d06b14db309394457"
+  },
+  "speciesName": "CÁ BASA FILLET 200G",
+  "description": "<p>Cá basa fillet đông lạnh có hương vị đặc trưng, thịt dày, thơm đậm đà đầy hấp dẫn, dùng để chế biến nhiều món ăn ngon, bổ dưỡng. Cá basa có chứa nhiều protein, nhiều chất khoáng quan trọng và có gần đủ các loại vitamin, đặc biệt nhiều vitamin A và D trong gan cá và một số vitamin nhóm B. Hơn thế, cá basa còn là loài có giá trị dinh dưỡng cao vì chứa nhiều chất đạm, ít béo, nhiều EPA và DHA, ít cholesterol. Sản phẩm có thể chế biến thành các món như chiên, rán, sốt cà chua, thả ăn cùng lẩu… thơm ngon, phù hợp với khẩu vị của các thành viên trong gia đình. Sản phẩm đã được sơ chế qua, giúp tiết kiệm thời gian chế biến cho các bà nội trợ.<br>&nbsp;</p>",
+  "retailerPurchaseOrderID": "0x5b0d6337008aeae097024c6a2af991e883fefd7a0c453f8a397705d80fcdf699",
+  "processedFishPurchaseOrderID": "0x80d9cb833e6b8a24f56b0c03a89f9c25bbea9540d483e095323862404ea3f70c",
+  "numberOfFishPackagesOrdered": 70,
+  "buyer": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "seller": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "owner": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "status": 0,
+  "dateOfProcessing": {
+    "$date": "2023-06-29T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-11T17:00:00.000Z"
+  },
+  "numberOfPackets": 70,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdEbJEakA2ZjC2DEa5Tx1WvL2LfFituZRatp2dGFmyKoa",
+  "disable": false,
+  "listing": false,
+  "transactionHash": "0xa57652a1156f159fd85c700cedacb5efc960313af6cad4604b188a12227dba2d",
+  "createdAt": {
+    "$date": "2023-08-09T13:37:40.148Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T13:38:04.236Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "64d44ad9efd21fdc38c85375"
+  },
+  "distributorId": {
+    "$oid": "649d537206b14db309394338"
+  },
+  "speciesName": "Cá Basa fillet",
+  "description": "<h2><strong>Mô tả</strong></h2><p><strong>Quy Cách:&nbsp;</strong>500g/gói, 1000g /gói</p><p><strong>Bảo quản:&nbsp;</strong>Bảo quản trong ngăn đá tủ lạnh hay ở nhiệt độ -20°C± 2</p><p><strong>Thành phần:&nbsp;</strong>Thịt cá basa 100%</p><p><strong>Hướng dẫn sử dụng:</strong></p><p>– Rã đông tự nhiên</p><p>– Dùng để chiên, bỏ lẩu, tẩm bột, kết hợp được nhiều món</p><p>– Dùng với nước tương hay tương ớt. Dùng để nấu canh, lẩu các loại.</p>",
+  "retailerPurchaseOrderID": "0x041839f3e152ffe64b8590068bc590b4818797e051ae19fe1243b8b0352cbb27",
+  "processedFishPurchaseOrderID": "0x5e1757770698f64d4107ac031fd9c9ec1657c001123d6db9644594c694bae1d6",
+  "numberOfFishPackagesOrdered": 2,
+  "buyer": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "seller": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "owner": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "status": 0,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-05T17:00:00.000Z"
+  },
+  "numberOfPackets": 2,
+  "filletsInPacket": 3,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYM3qWmCwXF2qKNjnBKhfDJtPnAunArWLUw7FzLD8VDn1",
+  "disable": false,
+  "listing": false,
+  "transactionHash": "0x83d170a5b776c69348d8fdc7a6f6ffc0d552b1354acbd75290cd8267ca57f6a4",
+  "createdAt": {
+    "$date": "2023-08-10T02:26:33.706Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T02:27:01.681Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+}]

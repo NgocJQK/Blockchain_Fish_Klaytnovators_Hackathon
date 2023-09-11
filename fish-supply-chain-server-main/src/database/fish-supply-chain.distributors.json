@@ -1,0 +1,336 @@
+[{
+  "_id": {
+    "$oid": "6486e5db7084780d4fc544ef"
+  },
+  "fishProcessingId": {
+    "$oid": "6486e5947084780d4fc543fc"
+  },
+  "speciesName": "Fish fillets",
+  "description": "<p>Description</p>",
+  "quantityOfFishPackageOrdered": 120,
+  "processedFishPurchaseOrderId": "0x4ade5bd981cdce8606f141f64fb434fb4b56d00ca163e17a979fa42e65ad3d06",
+  "orderer": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "receiver": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-11T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-06-21T17:00:00.000Z"
+  },
+  "numberOfPackets": 70,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUvoZYCinF3pBN2GbzSXFCFtC4pxEgi7Bcx2Y7g9vEM1H",
+  "disable": true,
+  "listing": false,
+  "transactionHash": "0x5414ac305fde449004940a0aeebe2ec2ca7a3f3eb91a586959d4ececd7fb8a0f",
+  "createdAt": {
+    "$date": "2023-06-12T09:31:07.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-22T10:18:32.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d532806b14db3093941c6"
+  },
+  "fishProcessingId": {
+    "$oid": "649d4aaad39dcad4f013a9f2"
+  },
+  "speciesName": "CÁ HỒI HỮU CƠ",
+  "description": "<h3><strong>Thông tin sản phẩm</strong></h3><p>&nbsp;</p><p>Theo đánh giá của các chuyên gia ẩm thực, cá hồi hữu cơ Na Uy có chất lượng tốt nhất thế giới, biến đây trở thành quốc gia có số lượng xuất khẩu cá hồi khổng lồ. Cá hồi ở Na Uy sinh sống trong làn nước sạch tự nhiên, có nhiệt độ từ 5-10 độ C của Bắc Âu và được nuôi nhốt trong các lồng quây giữa đại dương. Nhờ đó, chúng có được điều kiện phát triển tự nhiên nhất, cơ thể chứa hàm lượng chất béo và chất đạm đặc biệt giúp chống chọi, thích nghi với nước biển cực lạnh tại vùng biển Bắc Đại Tây Dương. Đây cũng là lý do cá hồi Nauy cho chất lượng thịt tốt nhất thế giới.</p><p>Cá hồi Na Uy được chăn nuôi theo tiêu chuẩn khắt khe với những tiêu chuẩn vượt trội từ chất lượng con giống đầu vào, thức ăn cho cá đến chất lượng đầu ra thành phẩm tuyệt đối không sử dụng chất bảo quản. Chính vì vậy chất lượng cá thơm ngon và béo hơn, hàm lượng các chất dinh dưỡng cao hơn so với các loại cá hồi nhập từ Nhật Bản, Chilê.</p><p>Cá hồi fillet Na Uy tươi có màu tự nhiên, không đỏ hồng. Các mô liên kết của cá hồi cùng vân mỡ xen đều đặn, mạch lạc. Cá không có mùi hôi, khó chịu.</p><p>Cá hồi hữu cơ Na Uy fillet tại Tomita Mart được đóng gói, bảo quản trong môi trường đông lạnh nhưng vẫn giữ được hàm lượng dinh dưỡng và độ tươi ngon hoàn hảo. Các mẹ an tâm mua về để chế biến bữa cơm cho gia đình.</p><p>Hạn sử dụng của cá hồi hữu cơ Nauy fillet: 3 ngày bảo quản trong ngăn mát tủ lạnh.</p>",
+  "quantityOfFishPackageOrdered": 156,
+  "processedFishPurchaseOrderId": "0x2c441c5c57b4ee8b02d988a36eeb5824785e202d0f0023e5cf11bb729db52223",
+  "orderer": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "receiver": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-12-04T17:00:00.000Z"
+  },
+  "numberOfPackets": 133,
+  "filletsInPacket": 1,
+  "IPFSHash": "QmfLcZdNaDA2B2eeJ8eeAQ4CXcSV8aVv6DTVW1bModeGei",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmad32EtTSuDzuvPx5FNGL9xEGqT4EcRmKk89JB68ctjH8",
+  "disable": false,
+  "listing": false,
+  "transactionHash": "0xa46d8ae20cdb45a18d0f5b5f3c516406c8af550770203bc5b5d280aeab222729",
+  "createdAt": {
+    "$date": "2023-06-29T09:47:20.369Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T09:33:19.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d534e06b14db30939424f"
+  },
+  "fishProcessingId": {
+    "$oid": "649d4aaad39dcad4f013a9f2"
+  },
+  "speciesName": "CÁ HỒI HỮU CƠ",
+  "description": "<h3><strong>Thông tin sản phẩm</strong></h3><p>&nbsp;</p><p>Theo đánh giá của các chuyên gia ẩm thực, cá hồi hữu cơ Na Uy có chất lượng tốt nhất thế giới, biến đây trở thành quốc gia có số lượng xuất khẩu cá hồi khổng lồ. Cá hồi ở Na Uy sinh sống trong làn nước sạch tự nhiên, có nhiệt độ từ 5-10 độ C của Bắc Âu và được nuôi nhốt trong các lồng quây giữa đại dương. Nhờ đó, chúng có được điều kiện phát triển tự nhiên nhất, cơ thể chứa hàm lượng chất béo và chất đạm đặc biệt giúp chống chọi, thích nghi với nước biển cực lạnh tại vùng biển Bắc Đại Tây Dương. Đây cũng là lý do cá hồi Nauy cho chất lượng thịt tốt nhất thế giới.</p><p>Cá hồi Na Uy được chăn nuôi theo tiêu chuẩn khắt khe với những tiêu chuẩn vượt trội từ chất lượng con giống đầu vào, thức ăn cho cá đến chất lượng đầu ra thành phẩm tuyệt đối không sử dụng chất bảo quản. Chính vì vậy chất lượng cá thơm ngon và béo hơn, hàm lượng các chất dinh dưỡng cao hơn so với các loại cá hồi nhập từ Nhật Bản, Chilê.</p><p>Cá hồi fillet Na Uy tươi có màu tự nhiên, không đỏ hồng. Các mô liên kết của cá hồi cùng vân mỡ xen đều đặn, mạch lạc. Cá không có mùi hôi, khó chịu.</p><p>Cá hồi hữu cơ Na Uy fillet tại Tomita Mart được đóng gói, bảo quản trong môi trường đông lạnh nhưng vẫn giữ được hàm lượng dinh dưỡng và độ tươi ngon hoàn hảo. Các mẹ an tâm mua về để chế biến bữa cơm cho gia đình.</p><p>Hạn sử dụng của cá hồi hữu cơ Nauy fillet: 3 ngày bảo quản trong ngăn mát tủ lạnh.</p>",
+  "quantityOfFishPackageOrdered": 133,
+  "processedFishPurchaseOrderId": "0xdb42ec46cc9a971ffe7ddc639afa7380741c536d2c9dd10f43ef5bab13d14d8b",
+  "orderer": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "receiver": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "status": 2,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-12-04T17:00:00.000Z"
+  },
+  "numberOfPackets": 133,
+  "filletsInPacket": 1,
+  "IPFSHash": "QmfLcZdNaDA2B2eeJ8eeAQ4CXcSV8aVv6DTVW1bModeGei",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmad32EtTSuDzuvPx5FNGL9xEGqT4EcRmKk89JB68ctjH8",
+  "disable": false,
+  "listing": false,
+  "transactionHash": "0x8d7b5617f6ecaa600547dc37327e01e5ec40f2e0617c120e1f007bd5649363d7",
+  "createdAt": {
+    "$date": "2023-06-29T09:47:58.330Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-29T09:47:58.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d537206b14db309394338"
+  },
+  "fishProcessingId": {
+    "$oid": "649d4d20d39dcad4f013ad3a"
+  },
+  "speciesName": "Cá Basa fillet",
+  "description": "<h2><strong>Mô tả</strong></h2><p><strong>Quy Cách:&nbsp;</strong>500g/gói, 1000g /gói</p><p><strong>Bảo quản:&nbsp;</strong>Bảo quản trong ngăn đá tủ lạnh hay ở nhiệt độ -20°C± 2</p><p><strong>Thành phần:&nbsp;</strong>Thịt cá basa 100%</p><p><strong>Hướng dẫn sử dụng:</strong></p><p>– Rã đông tự nhiên</p><p>– Dùng để chiên, bỏ lẩu, tẩm bột, kết hợp được nhiều món</p><p>– Dùng với nước tương hay tương ớt. Dùng để nấu canh, lẩu các loại.</p>",
+  "quantityOfFishPackageOrdered": 11,
+  "processedFishPurchaseOrderId": "0x5e1757770698f64d4107ac031fd9c9ec1657c001123d6db9644594c694bae1d6",
+  "orderer": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "receiver": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-05T17:00:00.000Z"
+  },
+  "numberOfPackets": 7,
+  "filletsInPacket": 3,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYM3qWmCwXF2qKNjnBKhfDJtPnAunArWLUw7FzLD8VDn1",
+  "disable": false,
+  "listing": true,
+  "transactionHash": "0xf83e0feb3e4951a33758ff493ed09669a2a2e1c2670fbcd10882949b000d02ea",
+  "createdAt": {
+    "$date": "2023-06-29T09:48:34.525Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T02:26:33.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d538b06b14db3093943bf"
+  },
+  "fishProcessingId": {
+    "$oid": "649d5246d39dcad4f013b41d"
+  },
+  "speciesName": "Cá Trắm Giòn",
+  "description": "<p>Cá Trắm Giòn Fillet (cá Giòn Fillet)</p><p>Sản xuất đóng gói: Công ty Phúc Thịnh</p><p>Qui cách: 500gr/vỉ và miếng 1/2 con cá</p><p>Bảo quản:&nbsp; -180C hoặc ngăn đá tủ lạnh</p><p>Hạn sử dụng: 1 năm kể từ ngày sản xuất</p>",
+  "quantityOfFishPackageOrdered": 10,
+  "processedFishPurchaseOrderId": "0xfef7cc11e255b90d1ffc6d145a9519a61ab04c4b0406021927a129e046f63780",
+  "orderer": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "receiver": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-19T17:00:00.000Z"
+  },
+  "numberOfPackets": 6,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYbcFhM6hfmtr2hk5t9iLqFSk3gZPER4wi7hxuh8B7bdx",
+  "disable": false,
+  "listing": true,
+  "transactionHash": "0xd8b51aa6ecd307dee4e3a04cc24f30401143cc9d4240067627435400820981ab",
+  "createdAt": {
+    "$date": "2023-06-29T09:48:59.475Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T02:25:46.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d549d06b14db309394457"
+  },
+  "fishProcessingId": {
+    "$oid": "649d4cbdd39dcad4f013ab94"
+  },
+  "speciesName": "CÁ BASA FILLET 200G",
+  "description": "<p>Cá basa fillet đông lạnh có hương vị đặc trưng, thịt dày, thơm đậm đà đầy hấp dẫn, dùng để chế biến nhiều món ăn ngon, bổ dưỡng. Cá basa có chứa nhiều protein, nhiều chất khoáng quan trọng và có gần đủ các loại vitamin, đặc biệt nhiều vitamin A và D trong gan cá và một số vitamin nhóm B. Hơn thế, cá basa còn là loài có giá trị dinh dưỡng cao vì chứa nhiều chất đạm, ít béo, nhiều EPA và DHA, ít cholesterol. Sản phẩm có thể chế biến thành các món như chiên, rán, sốt cà chua, thả ăn cùng lẩu… thơm ngon, phù hợp với khẩu vị của các thành viên trong gia đình. Sản phẩm đã được sơ chế qua, giúp tiết kiệm thời gian chế biến cho các bà nội trợ.<br>&nbsp;</p>",
+  "quantityOfFishPackageOrdered": 153,
+  "processedFishPurchaseOrderId": "0x80d9cb833e6b8a24f56b0c03a89f9c25bbea9540d483e095323862404ea3f70c",
+  "orderer": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "receiver": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-29T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-11T17:00:00.000Z"
+  },
+  "numberOfPackets": 27,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdEbJEakA2ZjC2DEa5Tx1WvL2LfFituZRatp2dGFmyKoa",
+  "disable": false,
+  "listing": false,
+  "transactionHash": "0x9c7c02840a1d4fe081e079f20d16c286748122865c494078f7379d9f4304c7f2",
+  "createdAt": {
+    "$date": "2023-06-29T09:53:33.108Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T02:25:50.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d54e306b14db309394551"
+  },
+  "fishProcessingId": {
+    "$oid": "649d4cbdd39dcad4f013ab94"
+  },
+  "speciesName": "CÁ BASA FILLET 200G",
+  "description": "<p>Cá basa fillet đông lạnh có hương vị đặc trưng, thịt dày, thơm đậm đà đầy hấp dẫn, dùng để chế biến nhiều món ăn ngon, bổ dưỡng. Cá basa có chứa nhiều protein, nhiều chất khoáng quan trọng và có gần đủ các loại vitamin, đặc biệt nhiều vitamin A và D trong gan cá và một số vitamin nhóm B. Hơn thế, cá basa còn là loài có giá trị dinh dưỡng cao vì chứa nhiều chất đạm, ít béo, nhiều EPA và DHA, ít cholesterol. Sản phẩm có thể chế biến thành các món như chiên, rán, sốt cà chua, thả ăn cùng lẩu… thơm ngon, phù hợp với khẩu vị của các thành viên trong gia đình. Sản phẩm đã được sơ chế qua, giúp tiết kiệm thời gian chế biến cho các bà nội trợ.<br>&nbsp;</p>",
+  "quantityOfFishPackageOrdered": 250,
+  "processedFishPurchaseOrderId": "0xf2109abf567668ef6895c13bf51ebf8d17e1aacfa5366fbb37a864f70c3e712a",
+  "orderer": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "receiver": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "status": 2,
+  "dateOfProcessing": {
+    "$date": "2023-06-29T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-11T17:00:00.000Z"
+  },
+  "numberOfPackets": 250,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdEbJEakA2ZjC2DEa5Tx1WvL2LfFituZRatp2dGFmyKoa",
+  "disable": false,
+  "listing": false,
+  "transactionHash": "0xe0036e2d886a324acd5e899b0e1ce9f5c24a9f9b375a80aaf8a2f82139aab270",
+  "createdAt": {
+    "$date": "2023-06-29T09:54:43.780Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-29T09:54:43.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d551a06b14db3093945ec"
+  },
+  "fishProcessingId": {
+    "$oid": "649d4c42d39dcad4f013aafa"
+  },
+  "speciesName": "Cá trê phi lê",
+  "description": "<p>Phi lê cá tra là phần thịt của cá đã được cắt theo chiều dọc một bên của cá song song với xương sống. <strong>Thịt cá tra phi lê hồng là loại thịt cá tra đã được bỏ da, không xương, bỏ thịt đỏ, bỏ dè, bỏ mỡ</strong>. Lúc nấu <strong>thịt cá phile hồng</strong>, khi chín chúng sẽ có màu sắc tương tự ngà voi. Cá Tra của chúng tôi là loại cá được thu hoạch tại các bè nuôi cá trên sông hoặc trong các ao nuôi ở khu vực tỉnh An Giang, Đồng Tháp, Cần Thơ. Khi nuôi áp dụng đầy dủ quy trình nuôi hiện đại để làm hàng xuất khẩu đi nhiều nước trên thế giới. Cá Tra tại Việt Nam đang được nuôi bằng ngũ cốc đậu nành để đảm bảo chất lượng theo tiêu chuẩn quốc tế, kết cấu thịt, và hương vị của miếng cá.</p>",
+  "quantityOfFishPackageOrdered": 10,
+  "processedFishPurchaseOrderId": "0x11e85d0c38aa6f612572e758851d0d41fbbc81ac2da625c2e070cebd0d8faa91",
+  "orderer": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "receiver": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "status": 4,
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-11-15T17:00:00.000Z"
+  },
+  "numberOfPackets": 1,
+  "filletsInPacket": 2,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmaKSadZbr9yttybDrgrCJ4Sntr4hJCsz7P1njatB534X4",
+  "disable": false,
+  "listing": false,
+  "transactionHash": "0xd54346950266df3bf2a29905c0afcb12a81a6a1a62196595d2c1afda8eb8864a",
+  "createdAt": {
+    "$date": "2023-06-29T09:55:38.698Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T02:25:50.153Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "647ca28c0fe92d4f09c236cb"
+  },
+  "title": "Rainbow Trout",
+  "subTitle": "The Jewel of Freshwater Streams",
+  "description": "<p>Rainbow trout, scientifically known as Oncorhynchus mykiss, are prized for their vibrant colors and excellent taste. They are native to North America but have been introduced to various parts of the world due to their popularity as a game fish. Rainbow trout thrive in clear, cold streams and are known for their acrobatic leaps when hooked by anglers.</p>",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "speciesName": "Oncorhynchus mykiss",
+  "quantity": 500,
+  "waterTemperature": 15,
+  "image": "https://gateway.pinata.cloud/ipfs/QmbdgWu5hBBqkkexCk2pK9bcCrbb87wL5MdckB82nogdyU",
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "isMakeContract": false,
+  "createdAt": {
+    "$date": "2023-06-04T14:41:16.793Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T03:50:14.456Z"
+  },
+  "__v": 0,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  }
+},
+{
+  "_id": {
+    "$oid": "647ca2e90fe92d4f09c23750"
+  },
+  "title": "Clownfish",
+  "subTitle": "Nemo's Colorful Companions",
+  "description": "<p>Clownfish, also known as anemonefish, are small and brightly colored marine fish that are commonly found in coral reefs. They have a unique symbiotic relationship with sea anemones, where they live and seek protection. The iconic orange coloration with white stripes makes them easily recognizable. Clownfish are popular in the aquarium trade due to their striking appearance and interesting behavior.</p>",
+  "geographicOrigin": 2,
+  "methodOfReproduction": 0,
+  "speciesName": "Amphiprioninae (various species)",
+  "quantity": 110,
+  "waterTemperature": 24,
+  "image": "https://gateway.pinata.cloud/ipfs/QmeuawD3nLXRM4eMysHvuBZxs6a8ptKtsxW1rSxmtsgwaz",
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "isMakeContract": false,
+  "createdAt": {
+    "$date": "2023-06-04T14:42:49.437Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T08:26:23.483Z"
+  },
+  "__v": 0,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  }
+},
+{
+  "_id": {
+    "$oid": "647ca3200fe92d4f09c2377c"
+  },
+  "title": "Atlantic Salmon",
+  "subTitle": "The Majestic Fish of the Northern Seas",
+  "description": "<p>Atlantic salmon, scientifically known as Salmo salar, are anadromous fish that are famous for their long migrations. They spawn in freshwater rivers and streams but spend most of their adult life in the open ocean. Atlantic salmon are highly valued for their rich flavor and are a popular choice among seafood enthusiasts. However, due to overfishing and habitat loss, their populations have declined in recent years.</p>",
+  "geographicOrigin": 0,
+  "methodOfReproduction": 0,
+  "speciesName": "Salmo salar",
+  "quantity": 5000,
+  "waterTemperature": 16,
+  "image": "https://gateway.pinata.cloud/ipfs/QmTBo7wa8j1CJX7mzP1EvV7LmEXWBbLAk9qMYXjCU19ihk",
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "isMakeContract": false,
+  "createdAt": {
+    "$date": "2023-06-04T14:43:44.449Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-04T14:43:44.449Z"
+  },
+  "__v": 0,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  }
+},
+{
+  "_id": {
+    "$oid": "649ba54b315c7e0d3c70b3ee"
+  },
+  "title": "Cá vàng - Một giống cá phổ biến trong hồ cá",
+  "subTitle": "Khám phá về cá vàng và cách chăm sóc chúng",
+  "description": "<p>Mô tả: Bài viết này giới thiệu về giống cá vàng, một trong những loại cá phổ biến nhất được nuôi trong hồ cá. Chúng ta sẽ tìm hiểu về nguồn gốc địa lý, phương thức sinh sản, số lượng phổ biến, và yêu cầu về nhiệt độ nước nuôi thích hợp cho loài cá này.</p><p>Tên loài: Cá vàng (Carassius auratus)</p><p>Nguồn gốc địa lý: Brackish hoặc fresh water (nước mặn lẫn nước ngọt)</p><p>Phương thức sinh sản: Tự nhiên hoặc nhân tạo (thụ tinh trong môi trường tự nhiên hoặc qua quá trình thụ tinh nhân tạo)</p><p>Số lượng: Cá vàng là một trong những loại cá được nuôi và phân phối rộng rãi nhất trên thế giới. Không có con số chính xác về số lượng cá vàng tồn tại, nhưng chúng được nuôi trong hàng triệu và có sẵn ở hầu hết các cửa hàng cá cảnh và trung tâm nuôi cá.</p><p>Nhiệt độ nước nuôi thích hợp: Cá vàng có thể sống trong nhiều điều kiện nhiệt đới và ôn đới. Tuy nhiên, nhiệt độ nước thích hợp để nuôi cá vàng trong hồ cá là khoảng 18-24 độ C. Nhiệt độ nước quá cao hoặc quá thấp có thể gây ảnh hưởng đến sức khỏe và tăng khả năng bị bệnh cho cá vàng.</p>",
+  "geographicOrigin": 0,
+  "methodOfReproduction": 0,
+  "speciesName": "Cá vàng (Carassius auratus)",
+  "quantity": 1433,
+  "waterTemperature": 20,
+  "image": "https://gateway.pinata.cloud/ipfs/QmNPBqXG9m2ZzBFZUWiatNAxPXQtTWbXArUzSdgic4bdXC",
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "isMakeContract": false,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "createdAt": {
+    "$date": "2023-06-28T03:13:15.971Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T03:54:37.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649ba5dd315c7e0d3c70b43d"
+  },
+  "title": "Cá basa - Một loài cá phổ biến trong ngành công nghiệp thực phẩm",
+  "subTitle": "Khám phá về cá basa và ứng dụng của nó trong công nghiệp thực phẩm",
+  "description": "<p>Bài viết này giới thiệu về cá basa, một loài cá được sử dụng rộng rãi trong ngành công nghiệp thực phẩm. Chúng ta sẽ tìm hiểu về nguồn gốc địa lý, phương thức sinh sản, số lượng phổ biến và thông tin về cách nuôi cá basa để sử dụng trong việc sản xuất thực phẩm.</p><p>Tên loài: Cá basa (Pangasius bocourti)</p><p>Nguồn gốc địa lý: Cá basa có nguồn gốc từ sông Mekong và các sông chảy qua khu vực Đông Nam Á, đặc biệt là Việt Nam.</p><p>Phương thức sinh sản: Cá basa sinh sản theo phương thức tự nhiên, trong đó chúng đẻ trứng và phụ huynh chăm sóc trứng cho đến khi trứng nở thành ấu trùng.</p><p>Số lượng: Cá basa là một trong những loại cá thương mại quan trọng nhất trong ngành công nghiệp thủy sản. Việc xác định chính xác số lượng cá basa tồn tại là khó khăn, nhưng hàng năm có hàng triệu tấn cá basa được nuôi và sản xuất.</p><p>Thông tin về cách nuôi cá basa để sử dụng trong việc làm thực phẩm:</p><ul><li>Cá basa thích nghi tốt với nuôi trồng trong ao nuôi và hệ thống nuôi công nghệ cao.</li><li>Nhiệt độ nước thích hợp để nuôi cá basa là khoảng 26-30 độ C.</li><li>Chế độ ăn uống cần cung cấp thức ăn chất lượng, bao gồm thức ăn hỗn hợp hoặc thức ăn công nghiệp chứa protein, chất béo, và các chất dinh dưỡng khác.</li></ul><p>Cá basa đã trở thành một phần quan trọng trong ngành công nghiệp thực phẩm và là một nguồn cung cấp thực phẩm quan trọng cho nhiều quốc gia trên thế giới.</p>",
+  "geographicOrigin": 2,
+  "methodOfReproduction": 1,
+  "speciesName": "Cá basa (Pangasius bocourti)",
+  "quantity": 1500,
+  "waterTemperature": 29,
+  "image": "https://gateway.pinata.cloud/ipfs/Qmayn221KcoUmKWJDrRq8QbgSCip9mp27T85Vo9P1M13AH",
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "isMakeContract": false,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "createdAt": {
+    "$date": "2023-06-28T03:15:41.040Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T03:45:53.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649ba648315c7e0d3c70b486"
+  },
+  "title": "Cá hồi - Một loài cá đa năng trong ẩm thực",
+  "subTitle": "Khám phá về cá hồi và các ứng dụng thực phẩm của nó",
+  "description": "<p>Bài viết này giới thiệu về cá hồi, một loài cá đa năng được sử dụng rộng rãi trong ẩm thực. Chúng ta sẽ tìm hiểu về nguồn gốc địa lý, phương thức sinh sản, số lượng phổ biến và thông tin về cách sử dụng cá hồi trong các món ăn thực phẩm.</p><p>Tên loài: Cá hồi (Salmon)</p><p>Nguồn gốc địa lý: Cá hồi có nguồn gốc từ vùng Bắc Đại Tây Dương và Thái Bình Dương, bao gồm các vùng biển xung quanh Bắc Mỹ, châu Âu và châu Á.</p><p>Phương thức sinh sản: Cá hồi có phương thức sinh sản di cư. Chúng đẻ trứng trong các con sông núi và sau đó cá con trở về biển để phát triển. Quá trình này được gọi là \"di cư nghịch\".</p><p>Số lượng: Số lượng chính xác của cá hồi tồn tại trong tự nhiên không được biết đến. Tuy nhiên, cá hồi là một loại cá quý giá và phổ biến trong ngành công nghiệp thủy sản. Chúng được nuôi và khai thác rộng rãi để cung cấp cho thị trường thực phẩm.</p><p>Thông tin về ứng dụng thực phẩm của cá hồi:</p><ul><li>Cá hồi được sử dụng trong nhiều món ăn thực phẩm, bao gồm nướng, hấp, chiên, và sốt.</li><li>Thịt cá hồi có màu hồng đậm và có hương vị đặc trưng, thường được đánh giá cao về chất lượng và giá trị dinh dưỡng.</li><li>Cá hồi cũng được sử dụng để làm sushi, sashimi và các món ăn đặc sản khác trong ẩm thực Nhật Bản.</li></ul><p>Cá hồi là một loại cá quý giá và phổ biến trong ẩm thực toàn cầu. Với hương vị đặc trưng và giá trị dinh dưỡng cao, cá hồi đã trở thành một phần quan trọng trong nhiều món ăn thực phẩm và tiếp tục được ưa chuộng trên toàn thế giới.</p>",
+  "geographicOrigin": 0,
+  "methodOfReproduction": 1,
+  "speciesName": "Cá hồi (Salmon)",
+  "quantity": 14322,
+  "waterTemperature": 22,
+  "image": "https://gateway.pinata.cloud/ipfs/QmfLHYSwyGexBassN5yrtYDvL5zBehqe7MABREHH3exbB3",
+  "IPFSHash": "QmfLcZdNaDA2B2eeJ8eeAQ4CXcSV8aVv6DTVW1bModeGei",
+  "isMakeContract": false,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "createdAt": {
+    "$date": "2023-06-28T03:17:28.877Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T03:13:28.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649ba6ca315c7e0d3c70b4cf"
+  },
+  "title": "Cá trích - Một loài cá phổ biến trong ẩm thực",
+  "subTitle": "Khám phá về cá trích và những ứng dụng thực phẩm của nó trong ẩm thực địa phương",
+  "description": "<p>Bài viết này giới thiệu về cá trích, một loài cá phổ biến và được ưa chuộng trong ẩm thực địa phương. Chúng ta sẽ tìm hiểu về nguồn gốc địa lý, phương thức sinh sản, số lượng phổ biến và thông tin về cách sử dụng cá trích trong các món ăn thực phẩm địa phương.</p><p>Tên loài: Cá trích (Tilapia)</p><p>Nguồn gốc địa lý: Cá trích có nguồn gốc từ châu Phi, nhưng hiện nay chúng được nuôi và phân phối trên khắp thế giới, bao gồm các khu vực châu Á, Mỹ, và châu Âu.</p><p>Phương thức sinh sản: Cá trích có phương thức sinh sản tự nhiên. Chúng đẻ trứng và cá con trưởng thành từ trứng này. Cá trích cũng có khả năng sinh sản nhanh chóng, làm cho chúng trở thành một loài cá phổ biến trong nuôi trồng.</p><p>Số lượng: Cá trích là một trong những loại cá nuôi trồng quan trọng nhất trên thế giới. Chúng được sản xuất và tiêu thụ trong số lượng lớn, đáp ứng nhu cầu thực phẩm của nhiều quốc gia.</p><p>Thông tin về ứng dụng thực phẩm của cá trích:</p><ul><li>Cá trích có thịt trắng, thơm ngon và mềm mịn, làm cho nó trở thành một lựa chọn phổ biến trong các món ăn thực phẩm.</li><li>Cá trích thường được chế biến thành nhiều món ăn khác nhau, bao gồm nướng, chiên, hấp, xào, và hầm.</li><li>Với vị ngọt tự nhiên, cá trích cũng thích hợp cho việc chế biến các món canh, súp, và salad.</li></ul><p>Cá trích là một loại cá đa năng và phổ biến trong ẩm thực địa phương. Với thịt trắng ngon và khả năng sinh sản nhanh chóng, cá trích đáp ứng nhu cầu thực phẩm và là một nguồn cung cấp quan trọng cho nhiều quốc gia trên thế giới.</p>",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 1,
+  "speciesName": "Cá trích (Tilapia)",
+  "quantity": 50,
+  "waterTemperature": 22,
+  "image": "https://gateway.pinata.cloud/ipfs/QmX5WNUo3kvk799Ff7wFVg3LBAQJ3s1sKnmMx3usthbjss",
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "isMakeContract": false,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "createdAt": {
+    "$date": "2023-06-28T03:19:38.600Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T03:46:52.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649ba73b315c7e0d3c70b501"
+  },
+  "title": "Cá trắm - Một loại cá ngon và phổ biến trong ẩm thực vùng nhiệt đới",
+  "subTitle": "Khám phá về cá trắm và các ứng dụng thực phẩm của nó trong ẩm thực vùng nhiệt đới",
+  "description": "<p>Bài viết này giới thiệu về cá trắm, một loại cá ngon và phổ biến trong ẩm thực vùng nhiệt đới. Chúng ta sẽ tìm hiểu về nguồn gốc địa lý, phương thức sinh sản, số lượng phổ biến và thông tin về cách sử dụng cá trắm trong các món ăn thực phẩm đặc trưng của vùng nhiệt đới.</p><p>Tên loài: Cá trắm (Snapper)</p><p>Nguồn gốc địa lý: Cá trắm được tìm thấy trong vùng nhiệt đới và cận nhiệt đới trên khắp thế giới, bao gồm các khu vực như Đại Tây Dương, Thái Bình Dương và Ấn Độ Dương. Một số loài cá trắm phổ biến bao gồm cá trắm đỏ, cá trắm vàng và cá trắm hồng.</p><p>Phương thức sinh sản: Cá trắm sinh sản theo phương thức tự nhiên, trong đó chúng đẻ trứng và cá con phát triển từ trứng này. Có một số loài cá trắm cũng được nuôi nhân tạo để đáp ứng nhu cầu thực phẩm.</p><p>Số lượng: Số lượng chính xác của cá trắm trong tự nhiên không được biết đến. Tuy nhiên, cá trắm là một loại cá quý giá và phổ biến trong ẩm thực vùng nhiệt đới. Chúng được nuôi và khai thác để cung cấp cho thị trường thực phẩm địa phương và xuất khẩu.</p><p>Thông tin về ứng dụng thực phẩm của cá trắm:</p><ul><li>Cá trắm có thịt trắng, mềm và ngọt ngào, làm cho nó trở thành một lựa chọn ưa chuộng trong các món ăn thực phẩm.</li><li>Cá trắm thường được chế biến thành nhiều món ăn đa dạng như nướng, chiên, hấp, xào và lẩu.</li><li>Cá trắm cũng được sử dụng để làm các món ăn đặc sản trong ẩm thực vùng nhiệt đới như cơm chiên cá trắm, canh chua cá trắm và cá trắm sốt me.</li></ul><p>Cá trắm là một loại cá ngon và phổ biến trong ẩm thực vùng nhiệt đới. Với thịt trắng ngọt ngào và đa dạng cách chế biến, cá trắm đáp ứng nhu cầu thực phẩm và là một nguồn cung cấp quan trọng cho ẩm thực đặc trưng của vùng nhiệt đới.</p>",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "speciesName": "Cá trắm (Snapper)",
+  "quantity": 145,
+  "waterTemperature": 25,
+  "image": "https://gateway.pinata.cloud/ipfs/QmQdcmeazE56BMHFZ3KGoMFnxqYhH9FsLnGUjavVyqUaFq",
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "isMakeContract": false,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "createdAt": {
+    "$date": "2023-06-28T03:21:31.025Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-11T10:35:15.833Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649baf89315c7e0d3c70b6d6"
+  },
+  "title": "Cá trê - Một loại cá thơm ngon và đa dạng trong ẩm thực",
+  "subTitle": "Khám phá về cá trê và các ứng dụng thực phẩm của nó",
+  "description": "<p>Bài viết này giới thiệu về cá trê, một loại cá thơm ngon và đa dạng được sử dụng trong ẩm thực. Chúng ta sẽ tìm hiểu về nguồn gốc địa lý, phương thức sinh sản, số lượng phổ biến và thông tin về cách sử dụng cá trê trong các món ăn thực phẩm.</p><p>Tên loài: Cá trê (Catfish)</p><p>Nguồn gốc địa lý: Cá trê có nguồn gốc từ nhiều khu vực trên thế giới, bao gồm châu Âu, châu Mỹ và châu Á. Một số loài cá trê phổ biến là cá trê xanh, cá trê da trơn và cá trê Mekong.</p><p>Phương thức sinh sản: Cá trê sinh sản theo phương thức tự nhiên. Chúng đẻ trứng và cá con phát triển từ trứng này. Cá trê cũng có thể được nuôi nhân tạo để đáp ứng nhu cầu thực phẩm.</p><p>Số lượng: Số lượng chính xác của cá trê trong tự nhiên không được biết đến. Tuy nhiên, cá trê là một loại cá phổ biến và được nuôi trồng rộng rãi trong ngành thủy sản để cung cấp cho thị trường thực phẩm.</p><p>Thông tin về ứng dụng thực phẩm của cá trê:</p><ul><li>Cá trê có thịt trắng, mềm và có hương vị đặc trưng, làm cho nó phù hợp với nhiều phong cách nấu ăn và món ăn thực phẩm.</li><li>Cá trê thường được chế biến thành nhiều món ăn đa dạng như nướng, chiên, hấp, xào và rim.</li><li>Cá trê cũng được sử dụng để làm các món ăn đặc sản trong ẩm thực vùng sông nước như canh chua cá trê, lẩu cá trê và cá trê nướng mỡ chài.</li></ul><p>Cá trê là một loại cá thơm ngon và đa dạng trong ẩm thực. Với thịt trắng mềm và khả năng chế biến linh hoạt, cá trê đã trở thành một nguyên liệu quan trọng trong nhiều món ăn thực phẩm và được ưa chuộng trên khắp thế giới.</p>",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 1,
+  "speciesName": "Cá trê (Catfish)",
+  "quantity": 1110,
+  "waterTemperature": 23,
+  "image": "https://gateway.pinata.cloud/ipfs/QmZtF93ATGX6JkuFLyF9oCiQXXamVZPvfgjSfsk5VGyhe4",
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "isMakeContract": false,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "createdAt": {
+    "$date": "2023-06-28T03:56:57.948Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T03:58:12.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d34c35a6cc325bfb619be2"
+  },
+  "title": "Cá tuyết",
+  "subTitle": "huộc chi Gadus",
+  "description": "<p>Cá tuyết là danh từ chung để chỉ cho các loài các thuộc chi <a href=\"https://vi.wikipedia.org/wiki/Gadus\">Gadus</a> và họ <a href=\"https://vi.wikipedia.org/wiki/H%E1%BB%8D_C%C3%A1_tuy%E1%BA%BFt\">Gadidae</a>. Trong đó có 2 loại phổ biến nhất là <a href=\"https://vi.wikipedia.org/wiki/C%C3%A1_tuy%E1%BA%BFt_%C4%90%E1%BA%A1i_T%C3%A2y_D%C6%B0%C6%A1ng\">cá tuyết Đại Tây Dương</a> (Gadus morhua) sống ở vùng biển sâu và lạnh nhất <a href=\"https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_T%C3%A2y_D%C6%B0%C6%A1ng\">Đại Tây Dương</a>. Loại còn lại là <a href=\"https://vi.wikipedia.org/wiki/C%C3%A1_tuy%E1%BA%BFt_Th%C3%A1i_B%C3%ACnh_D%C6%B0%C6%A1ng\">cá tuyết Thái Bình Dương</a> (Gadus macrocephalus), chúng sống chủ yếu ở khu vực phía Đông và phía Tây miền Bắc vùng biển <a href=\"https://vi.wikipedia.org/wiki/Th%C3%A1i_B%C3%ACnh_D%C6%B0%C6%A1ng\">Thái Bình Dương</a>.</p><p>Loài cá này có kích thước trung bình khá lớn, thân thuôn dài, lớp da nhám và xuất hiện nhiều chấm đen. Theo các chuyên gia nghiên cứu, cá tuyết là một nguồn cung cấp dồi dào các chất dinh dưỡng thiết yếu như: <a href=\"https://www.dienmayxanh.com/vao-bep/6-tac-dung-cua-vitamin-a-cach-bo-sung-va-cac-thuc-pham-giau-05214\">Vitamin A</a>, <a href=\"https://www.dienmayxanh.com/vao-bep/6-tac-dung-cua-vitamin-d-voi-suc-khoe-va-cac-thuc-pham-giau-05221\">D</a>, <a href=\"https://www.dienmayxanh.com/vao-bep/9-tac-dung-cua-vitamin-e-cach-su-dung-va-cac-thuc-pham-giau-05234\">E</a> và axit béo <a href=\"https://www.dienmayxanh.com/vao-bep/omega-3-la-gi-tac-dung-cua-omega-3-va-cac-thuc-pham-giau-05642\">omega 3</a> cho cơ thể của chúng ta.</p><p>Thịt cá có màu trắng, dày và đậm đà hương vị nên được chế biến thành nhiều món ăn, đặc biệt là <a href=\"https://www.dienmayxanh.com/vao-bep/mon-nuong\">món nướng</a>. Cá tuyết nướng sốt miso và muối toả mùi hương vô cùng hấp dẫn, thịt cá ngọt nước thấm đẫm vị mặn của muối cùng vị cay nhẹ của ớt. Món này mà làm mồi nhậu thì rất hao mồi đấy nhé!</p>",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "speciesName": "Cá tuyết",
+  "quantity": 5,
+  "waterTemperature": 22,
+  "image": "https://gateway.pinata.cloud/ipfs/QmfBA3Eb3XP2hC2EHj3hypz17MtgJAEhtGbFMe2MMQb2kf",
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "isMakeContract": false,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "createdAt": {
+    "$date": "2023-08-09T08:20:05.943Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T08:21:02.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d44837efd21fdc38c84c99"
+  },
+  "title": "Cá bơn 2",
+  "subTitle": "Cá bơn còn có tên gọi khác là cá thờn bơn",
+  "description": "<p>Đây là loại cá thân bẹt thuộc họ Soleidae, sinh sống ở cả nước mặn lẫn nước ngọt và bắt các loài động vật giáp xác nhỏ làm mồi. Tuy nhiên, người ta tìm thấy cá bơn nhiều nhất là ở nơi đáy biển.</p><p>Loài cá này có vẻ ngoài hơi kỳ quái so với các loài cá thông thường. Chúng có thân dẹt hình trái xoan, 2 bên thân không đối xứng nhau, lớp da sẫm màu và cặp mắt mọc cùng một bên. Chính vì thế mà khi nhìn xa, người ta tưởng rằng là 2 con sống dính chặt vào nhau.</p><p>Tuy cá bơn có hình thù kỳ quái nhưng thịt của chúng được xem là cực phẩm. Thịt trắng, có vị ngọt dịu và béo bùi nên thường được làm các món hấp, nhất là hấp xì dầu và hấp bún tàu. Có thể nói với 2 cách chế biến này, thịt cá bơn sẽ giữ được trọn vẹn vị ngon ngọt tự nhiên.</p>",
+  "geographicOrigin": 0,
+  "methodOfReproduction": 0,
+  "speciesName": "Cá bơn",
+  "quantity": 1,
+  "waterTemperature": 22,
+  "image": "https://gateway.pinata.cloud/ipfs/QmU7CaPdAhHZpdPDCovnmBNrxMmvyMU6rYPeKEkf8ayqLm",
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "isMakeContract": false,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "createdAt": {
+    "$date": "2023-08-10T02:15:19.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T02:16:30.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d451f1efd21fdc38c857a7"
+  },
+  "title": "Cá basa",
+  "subTitle": "Cá basa (tên khoa học: Pangasius bocourti)",
+  "description": "<p>Cá basa (tên khoa học: Pangasius bocourti) hay còn được gọi với cái tên cá giáo, cá sát bụng là loài <a href=\"https://vi.wikipedia.org/wiki/B%E1%BB%99_C%C3%A1_da_tr%C6%A1n\">cá da trơn</a> thuộc <a href=\"https://vi.wikipedia.org/wiki/C%C3%A1_tra\">họ cá Tra</a>. Tại Việt Nam, loài cá này thường được nuôi trồng nhiều nhất ở khu vực <a href=\"https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93ng_b%E1%BA%B1ng_s%C3%B4ng_C%E1%BB%ADu_Long\">Đồng bằng Sông Cửu Long</a> và được xem là sản phẩm nông nghiệp đem lại nguồn kinh tế giá trị cho miền Nam nước ta.</p><p>Loài cá này có kích thước trung bình khá lớn, thân ngắn hình thoi, đầu tròn, miệng dẹp. Phần bụng cá chứa nhiều mỡ, lớp da bụng màu trắng sáng, da lưng có màu nâu.</p><p>Thịt cá basa nướng muối ớt béo ngậy, khi nướng xong không bị khô mà rất ngọt nước và toả mùi hương thơm phức của muối ớt. Món này mà ăn kèm với <a href=\"https://www.dienmayxanh.com/vao-bep/rau-song-la-gi-cac-loai-rau-song-thuong-dung-va-cach-bao-dung-06071\">rau sống</a> và <a href=\"https://www.dienmayxanh.com/vao-bep/cong-thuc-cach-pha-nuoc-mam-chua-ngot-cham-thit-luoc-cuc-don-01121\">nước mắm chua ngọt</a> thì ngon hết sẩy!</p>",
+  "geographicOrigin": 0,
+  "methodOfReproduction": 0,
+  "speciesName": "Cá basa",
+  "quantity": 1,
+  "waterTemperature": 22,
+  "image": "https://gateway.pinata.cloud/ipfs/QmZtF93ATGX6JkuFLyF9oCiQXXamVZPvfgjSfsk5VGyhe4",
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "isMakeContract": false,
+  "owner": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "createdAt": {
+    "$date": "2023-08-10T02:56:49.646Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T02:57:46.709Z"
+  },
+  "__v": 0
+}]

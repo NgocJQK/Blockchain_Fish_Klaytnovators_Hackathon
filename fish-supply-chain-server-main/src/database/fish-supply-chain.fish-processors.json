@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "6485862447bd01ca94cc9541"
+  },
+  "fishFarmerId": {
+    "$oid": "648585a347bd01ca94cc9280"
+  },
+  "farmedFishPurchaser": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishSeller": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishPurchaseOrderID": "0x08f9f4a1b38a0cfb495ee942b968ce551892c8c80a6fb77778d42f5d2548410c",
+  "speciesName": "Amphiprioninae (various species)",
+  "geographicOrigin": 2,
+  "methodOfReproduction": 0,
+  "numberOfFishOrdered": 120,
+  "status": 4,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeuawD3nLXRM4eMysHvuBZxs6a8ptKtsxW1rSxmtsgwaz",
+  "transactionHash": "0xfab1c3088630bf1c65cb44e18430df774b3318063ffd1a50a6fb3984ddd12fb3",
+  "createdAt": {
+    "$date": "2023-06-11T08:30:28.030Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T08:31:08.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bff6638766b0bca5ab8a6"
+  },
+  "fishFarmerId": {
+    "$oid": "649bed6bfd6bb352b8fe8180"
+  },
+  "farmedFishPurchaser": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishSeller": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishPurchaseOrderID": "0xbcb7f88c993ffe7ab30fe49f272793450a4bffbc00bb4836e7d0e3a194a8d309",
+  "speciesName": "Cá trắm (Snapper)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "numberOfFishOrdered": 10,
+  "status": 1,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTY9TZZpfmPW77tDZDLp5MgBUFbvHporCs3kTPmkbP1qp",
+  "transactionHash": "0x72338be267ad6fe6574f2c3553cd4d2b7a30eb8bd21e3288f76685a2bfb80ff0",
+  "createdAt": {
+    "$date": "2023-06-28T09:37:42.875Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:52:30.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bff9338766b0bca5ab953"
+  },
+  "fishFarmerId": {
+    "$oid": "649bed30fd6bb352b8fe8062"
+  },
+  "farmedFishPurchaser": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishSeller": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishPurchaseOrderID": "0x7e54b52a891385696ee82bf3dfb1e5731d21a3290d3f1b16f2b025899c49436a",
+  "speciesName": "Cá trê (Catfish)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 1,
+  "numberOfFishOrdered": 102,
+  "status": 2,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdYBKswPBXzvv4s3cTWTpdfC2bo5AkyegopbUKqeZUEZj",
+  "transactionHash": "0xb523773375831c0b432e5b529159898ac7738f0a6a47c111693b3f779a008189",
+  "createdAt": {
+    "$date": "2023-06-28T09:38:27.111Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:38:27.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bffd138766b0bca5abaac"
+  },
+  "fishFarmerId": {
+    "$oid": "648585a347bd01ca94cc9280"
+  },
+  "farmedFishPurchaser": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishSeller": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishPurchaseOrderID": "0x3321899e969f5ae75a532476fc5eba396d5d235fa7359f5737dde0747f679b0a",
+  "speciesName": "Amphiprioninae (various species)",
+  "geographicOrigin": 2,
+  "methodOfReproduction": 0,
+  "numberOfFishOrdered": 12,
+  "status": 4,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeuawD3nLXRM4eMysHvuBZxs6a8ptKtsxW1rSxmtsgwaz",
+  "transactionHash": "0xef7f571c57fc1867968d0b5f8d2841759f27f3d8101d8f85e4ca19362ebccac4",
+  "createdAt": {
+    "$date": "2023-06-28T09:39:29.253Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:52:57.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bffe538766b0bca5abb41"
+  },
+  "fishFarmerId": {
+    "$oid": "649be0e3fd6bb352b8fe6bfe"
+  },
+  "farmedFishPurchaser": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishSeller": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishPurchaseOrderID": "0x4097a8097ed16f714c5564233cf32fbae30f6e57736037254f26e4fa7ca3a4c8",
+  "speciesName": "Cá basa (Pangasius bocourti)",
+  "geographicOrigin": 2,
+  "methodOfReproduction": 1,
+  "numberOfFishOrdered": 180,
+  "status": 4,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmayn221KcoUmKWJDrRq8QbgSCip9mp27T85Vo9P1M13AH",
+  "transactionHash": "0xea9812edf0d8f7bfc6531dbd48a0d6b9b3f63e1341ab4b3b31f9c69c71d45608",
+  "createdAt": {
+    "$date": "2023-06-28T09:39:49.307Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-29T09:25:56.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649c000e38766b0bca5abc10"
+  },
+  "fishFarmerId": {
+    "$oid": "649be1adfd6bb352b8fe6f48"
+  },
+  "farmedFishPurchaser": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishSeller": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishPurchaseOrderID": "0xe6d1f6edfd46c72938f9d7f0d97cb3b466a308c8a0b2ea5631d5200faca4b0cf",
+  "speciesName": "Cá basa (Pangasius bocourti)",
+  "geographicOrigin": 2,
+  "methodOfReproduction": 1,
+  "numberOfFishOrdered": 11,
+  "status": 4,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdesiQf8z1CFmBW4ViLjQhS3xyra5dCXgLrS7VN3QowLm",
+  "transactionHash": "0xbe1ff93dd1e6dce9d4fb07504dca9ce901ce081b30c54fa99ee9db65d5077bc5",
+  "createdAt": {
+    "$date": "2023-06-28T09:40:30.309Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:53:17.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649c003438766b0bca5abd91"
+  },
+  "fishFarmerId": {
+    "$oid": "649be056fd6bb352b8fe69a9"
+  },
+  "farmedFishPurchaser": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishSeller": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishPurchaseOrderID": "0x7aa6ec747e402c24e8acaa57e04a2091a7f346927e1a69ef972e49f9c56b0b06",
+  "speciesName": "Cá trê (Catfish)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 1,
+  "numberOfFishOrdered": 299,
+  "status": 4,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdYBKswPBXzvv4s3cTWTpdfC2bo5AkyegopbUKqeZUEZj",
+  "transactionHash": "0xd9d5ad31aaf0479dbf6f1d369e2ac8e081a760b2179f065ba656a7b3396d55b7",
+  "createdAt": {
+    "$date": "2023-06-28T09:41:08.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:53:31.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649c036138766b0bca5ac4e8"
+  },
+  "fishFarmerId": {
+    "$oid": "649be1dbfd6bb352b8fe7061"
+  },
+  "farmedFishPurchaser": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishSeller": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishPurchaseOrderID": "0xafa6e33dc7c4ce8b09442b409904823e4422fac5e729468df7bcccbd87715287",
+  "speciesName": "Cá hồi (Salmon)",
+  "geographicOrigin": 0,
+  "methodOfReproduction": 1,
+  "numberOfFishOrdered": 200,
+  "status": 4,
+  "IPFSHash": "QmfLcZdNaDA2B2eeJ8eeAQ4CXcSV8aVv6DTVW1bModeGei",
+  "image": "https://gateway.pinata.cloud/ipfs/QmfLHYSwyGexBassN5yrtYDvL5zBehqe7MABREHH3exbB3",
+  "transactionHash": "0xf39eea4e1d6c6b6ff128b8d7f253fb3bfbc67f3dabc92d48d1e0ca38f286fa18",
+  "createdAt": {
+    "$date": "2023-06-28T09:54:41.870Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:55:29.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649d4dc0d39dcad4f013ae73"
+  },
+  "fishFarmerId": {
+    "$oid": "649bed6bfd6bb352b8fe8180"
+  },
+  "farmedFishPurchaser": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishSeller": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishPurchaseOrderID": "0x007de185f4336c1dd32bf7450bba43ea14210ec7c34d3a8b75e355d7df2ee0e4",
+  "speciesName": "Cá trắm (Snapper)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "numberOfFishOrdered": 9,
+  "status": 4,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTY9TZZpfmPW77tDZDLp5MgBUFbvHporCs3kTPmkbP1qp",
+  "transactionHash": "0x9435049f9f9b65209904d6e20aa2e0e1cbbefa67176d0aa4b4d37332007b8c9c",
+  "createdAt": {
+    "$date": "2023-06-29T09:24:16.209Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-29T09:27:56.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d34e36a6cc325bfb61a18c"
+  },
+  "fishFarmerId": {
+    "$oid": "64d34ceca6cc325bfb619cab"
+  },
+  "farmedFishPurchaser": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishSeller": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishPurchaseOrderID": "0xf2d8277f3120c350595960132cd070682f1df38cdb8b01b1101c25a44d53dadb",
+  "speciesName": "Cá tuyết",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "numberOfFishOrdered": 3,
+  "status": 4,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQJEDpeEuQDvENx63qtGj5voSk8MuadA26JXcpbgkSGv4",
+  "transactionHash": "0xcaf5d617375726f7394dcf71c18673a42fd3071117a0fed5a59fb637d0dbee86",
+  "createdAt": {
+    "$date": "2023-08-09T08:28:38.744Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T08:29:22.595Z"
+  },
+  "__v": 0
+}]

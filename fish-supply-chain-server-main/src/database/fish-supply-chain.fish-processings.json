@@ -1,0 +1,440 @@
+[{
+  "_id": {
+    "$oid": "6486e5947084780d4fc543fc"
+  },
+  "fishProcessorId": {
+    "$oid": "6485862447bd01ca94cc9541"
+  },
+  "processedSpeciesName": "Fish fillets",
+  "description": "<p>Description</p>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "dateOfProcessing": {
+    "$date": "2023-06-11T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-06-21T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0x08f9f4a1b38a0cfb495ee942b968ce551892c8c80a6fb77778d42f5d2548410c",
+  "filletsInPacket": 2,
+  "numberOfPackets": 201,
+  "totalOfPackets": 321,
+  "processingContract": "0x331462FA0D5Ed89779ba6E8636B7211a4C3EA039",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUvoZYCinF3pBN2GbzSXFCFtC4pxEgi7Bcx2Y7g9vEM1H",
+  "disable": true,
+  "listing": false,
+  "createdAt": {
+    "$date": "2023-06-12T09:29:56.099Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-22T10:18:31.808Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "649d4aaad39dcad4f013a9f2"
+  },
+  "fishProcessorId": {
+    "$oid": "649c036138766b0bca5ac4e8"
+  },
+  "processedSpeciesName": "CÁ HỒI HỮU CƠ",
+  "description": "<h3><strong>Thông tin sản phẩm</strong></h3><p>&nbsp;</p><p>Theo đánh giá của các chuyên gia ẩm thực, cá hồi hữu cơ Na Uy có chất lượng tốt nhất thế giới, biến đây trở thành quốc gia có số lượng xuất khẩu cá hồi khổng lồ. Cá hồi ở Na Uy sinh sống trong làn nước sạch tự nhiên, có nhiệt độ từ 5-10 độ C của Bắc Âu và được nuôi nhốt trong các lồng quây giữa đại dương. Nhờ đó, chúng có được điều kiện phát triển tự nhiên nhất, cơ thể chứa hàm lượng chất béo và chất đạm đặc biệt giúp chống chọi, thích nghi với nước biển cực lạnh tại vùng biển Bắc Đại Tây Dương. Đây cũng là lý do cá hồi Nauy cho chất lượng thịt tốt nhất thế giới.</p><p>Cá hồi Na Uy được chăn nuôi theo tiêu chuẩn khắt khe với những tiêu chuẩn vượt trội từ chất lượng con giống đầu vào, thức ăn cho cá đến chất lượng đầu ra thành phẩm tuyệt đối không sử dụng chất bảo quản. Chính vì vậy chất lượng cá thơm ngon và béo hơn, hàm lượng các chất dinh dưỡng cao hơn so với các loại cá hồi nhập từ Nhật Bản, Chilê.</p><p>Cá hồi fillet Na Uy tươi có màu tự nhiên, không đỏ hồng. Các mô liên kết của cá hồi cùng vân mỡ xen đều đặn, mạch lạc. Cá không có mùi hôi, khó chịu.</p><p>Cá hồi hữu cơ Na Uy fillet tại Tomita Mart được đóng gói, bảo quản trong môi trường đông lạnh nhưng vẫn giữ được hàm lượng dinh dưỡng và độ tươi ngon hoàn hảo. Các mẹ an tâm mua về để chế biến bữa cơm cho gia đình.</p><p>Hạn sử dụng của cá hồi hữu cơ Nauy fillet: 3 ngày bảo quản trong ngăn mát tủ lạnh.</p>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmfLcZdNaDA2B2eeJ8eeAQ4CXcSV8aVv6DTVW1bModeGei",
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-12-04T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0xafa6e33dc7c4ce8b09442b409904823e4422fac5e729468df7bcccbd87715287",
+  "filletsInPacket": 1,
+  "numberOfPackets": 143,
+  "totalOfPackets": 432,
+  "processingContract": "0x267D4b60971dae77c03e19FAecB493098878B031",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmad32EtTSuDzuvPx5FNGL9xEGqT4EcRmKk89JB68ctjH8",
+  "disable": false,
+  "listing": true,
+  "createdAt": {
+    "$date": "2023-06-29T09:11:06.092Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T02:22:30.037Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "649d4aead39dcad4f013aa38"
+  },
+  "fishProcessorId": {
+    "$oid": "649c036138766b0bca5ac4e8"
+  },
+  "processedSpeciesName": "Cá hồi cắt lát Oceangift",
+  "description": "<p>Là dòng sản phẩm <a href=\"https://www.bachhoaxanh.com/ca-hai-san-dong-lanh-ca-dong-lam-san\">cá đông lạnh</a>cao cấp đến từ thương hiệu <a href=\"https://www.bachhoaxanh.com/ca-hai-san-dong-lanh-oceangift-ca-dong-lam-san\">cá đông lạnh Oceangift</a>. Với phần thịt cá mềm, tươi ngon và rất chắc thịt từ những con cá hồi có nguồn gốc từ Chile,&nbsp;<a href=\"https://www.bachhoaxanh.com/ca-hai-san-dong-lanh/ca-hoi-cat-lat-oceangift-khay-200g\">cá hồi cắt lát Oceangift khay 200g</a> mang đến bữa ăn dinh dưỡng và vô cùng tiện lợi cho các bà nội trợ.</p>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmfLcZdNaDA2B2eeJ8eeAQ4CXcSV8aVv6DTVW1bModeGei",
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-07-19T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0xafa6e33dc7c4ce8b09442b409904823e4422fac5e729468df7bcccbd87715287",
+  "filletsInPacket": 3,
+  "numberOfPackets": 342,
+  "totalOfPackets": 342,
+  "processingContract": "0xB0E248F5B67a0B1E5eef0eA781dc3bf9451A4FD8",
+  "image": "https://gateway.pinata.cloud/ipfs/QmX8sXfTrF3ofjSH2MdH7mqM8raYhy88YNqTR4SCb5YS4B",
+  "disable": true,
+  "listing": false,
+  "createdAt": {
+    "$date": "2023-06-29T09:12:10.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-11T01:39:57.902Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "649d4b47d39dcad4f013aa8c"
+  },
+  "fishProcessorId": {
+    "$oid": "649c036138766b0bca5ac4e8"
+  },
+  "processedSpeciesName": "Cá Hồi Cắt Lát",
+  "description": "<p>Thịt cá hồi được phi lê và cắt sẵn thành miếng, phù hợp và tiện lợi cho khâu chuẩn bị và chế biến thức ăn</p>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmfLcZdNaDA2B2eeJ8eeAQ4CXcSV8aVv6DTVW1bModeGei",
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-14T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0xafa6e33dc7c4ce8b09442b409904823e4422fac5e729468df7bcccbd87715287",
+  "filletsInPacket": 2,
+  "numberOfPackets": 343,
+  "totalOfPackets": 343,
+  "processingContract": "0x260655256363FC09B42D0fACcb5a3434F071a99e",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPnq1N4F4Ljfu3zaWGBzeZhWAE7MXPuSWjTcKiyoCkPQe",
+  "disable": false,
+  "listing": true,
+  "createdAt": {
+    "$date": "2023-06-29T09:13:43.016Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T04:13:18.518Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "649d4c42d39dcad4f013aafa"
+  },
+  "fishProcessorId": {
+    "$oid": "649c003438766b0bca5abd91"
+  },
+  "processedSpeciesName": "Cá trê phi lê",
+  "description": "<p>Phi lê cá tra là phần thịt của cá đã được cắt theo chiều dọc một bên của cá song song với xương sống. <strong>Thịt cá tra phi lê hồng là loại thịt cá tra đã được bỏ da, không xương, bỏ thịt đỏ, bỏ dè, bỏ mỡ</strong>. Lúc nấu <strong>thịt cá phile hồng</strong>, khi chín chúng sẽ có màu sắc tương tự ngà voi. Cá Tra của chúng tôi là loại cá được thu hoạch tại các bè nuôi cá trên sông hoặc trong các ao nuôi ở khu vực tỉnh An Giang, Đồng Tháp, Cần Thơ. Khi nuôi áp dụng đầy dủ quy trình nuôi hiện đại để làm hàng xuất khẩu đi nhiều nước trên thế giới. Cá Tra tại Việt Nam đang được nuôi bằng ngũ cốc đậu nành để đảm bảo chất lượng theo tiêu chuẩn quốc tế, kết cấu thịt, và hương vị của miếng cá.</p>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-11-15T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0x7aa6ec747e402c24e8acaa57e04a2091a7f346927e1a69ef972e49f9c56b0b06",
+  "filletsInPacket": 2,
+  "numberOfPackets": 70,
+  "totalOfPackets": 80,
+  "processingContract": "0xd9B186D4a54F2553854Fd219cF66484458a201BD",
+  "image": "https://gateway.pinata.cloud/ipfs/QmaKSadZbr9yttybDrgrCJ4Sntr4hJCsz7P1njatB534X4",
+  "disable": false,
+  "listing": false,
+  "createdAt": {
+    "$date": "2023-06-29T09:17:54.057Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T04:00:00.213Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "649d4c92d39dcad4f013ab58"
+  },
+  "fishProcessorId": {
+    "$oid": "649c000e38766b0bca5abc10"
+  },
+  "processedSpeciesName": "Cá Basa Fillet 500g",
+  "description": "<p><strong>Cá Basa Fillet 500g</strong></p><p>Khối lượng tịnh: 350 g<br>Tổng khối lượng: 500 g<br>Thành phần nguyên liệu: Cá basa tươi đã được làm sạch, bỏ đầu, bỏ nội tạng, filê, cắt miếng.<br>Hướng dẫn sử dụng, bảo quản và thời hạn sử dụng:<br>Thành phẩm sau khi cấp đông phải được bảo quản trong kho lạnh ở nhiệt độ dưới -20 độ C sử dụng trong vòng 12 tháng, bảo quản ở nhiệt độ -12 độ C trong vòng 3 tháng tháng kể từ ngày sản xuất.<br>Khi sử dụng rã đông tự nhiên trong nhiệt độ thường sau đó rửa sạch trước khi chế biến (chiên, tẩm bột chiên xù với bơ...)</p>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "dateOfProcessing": {
+    "$date": "2023-07-19T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-08-18T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0xe6d1f6edfd46c72938f9d7f0d97cb3b466a308c8a0b2ea5631d5200faca4b0cf",
+  "filletsInPacket": 2,
+  "numberOfPackets": 156,
+  "totalOfPackets": 156,
+  "processingContract": "0x9adF5024d732BBE889b9c4A9c58d35485eF33db8",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZr2bTV7Pd9aXJhDcQ9q3oPVqz3DL1L6YW3eezoP6Pgb4",
+  "disable": true,
+  "listing": false,
+  "createdAt": {
+    "$date": "2023-06-29T09:19:14.845Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-22T07:48:33.784Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "649d4cbdd39dcad4f013ab94"
+  },
+  "fishProcessorId": {
+    "$oid": "649c000e38766b0bca5abc10"
+  },
+  "processedSpeciesName": "CÁ BASA FILLET 200G",
+  "description": "<p>Cá basa fillet đông lạnh có hương vị đặc trưng, thịt dày, thơm đậm đà đầy hấp dẫn, dùng để chế biến nhiều món ăn ngon, bổ dưỡng. Cá basa có chứa nhiều protein, nhiều chất khoáng quan trọng và có gần đủ các loại vitamin, đặc biệt nhiều vitamin A và D trong gan cá và một số vitamin nhóm B. Hơn thế, cá basa còn là loài có giá trị dinh dưỡng cao vì chứa nhiều chất đạm, ít béo, nhiều EPA và DHA, ít cholesterol. Sản phẩm có thể chế biến thành các món như chiên, rán, sốt cà chua, thả ăn cùng lẩu… thơm ngon, phù hợp với khẩu vị của các thành viên trong gia đình. Sản phẩm đã được sơ chế qua, giúp tiết kiệm thời gian chế biến cho các bà nội trợ.<br>&nbsp;</p>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "dateOfProcessing": {
+    "$date": "2023-06-29T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-11T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0xe6d1f6edfd46c72938f9d7f0d97cb3b466a308c8a0b2ea5631d5200faca4b0cf",
+  "filletsInPacket": 2,
+  "numberOfPackets": 140,
+  "totalOfPackets": 543,
+  "processingContract": "0xD454a88dA952FD42bA5617E652d84F6547010CBA",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdEbJEakA2ZjC2DEa5Tx1WvL2LfFituZRatp2dGFmyKoa",
+  "disable": false,
+  "listing": true,
+  "createdAt": {
+    "$date": "2023-06-29T09:19:57.422Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T04:13:22.826Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "649d4d20d39dcad4f013ad3a"
+  },
+  "fishProcessorId": {
+    "$oid": "649c000e38766b0bca5abc10"
+  },
+  "processedSpeciesName": "Cá Basa fillet",
+  "description": "<h2><strong>Mô tả</strong></h2><p><strong>Quy Cách:&nbsp;</strong>500g/gói, 1000g /gói</p><p><strong>Bảo quản:&nbsp;</strong>Bảo quản trong ngăn đá tủ lạnh hay ở nhiệt độ -20°C± 2</p><p><strong>Thành phần:&nbsp;</strong>Thịt cá basa 100%</p><p><strong>Hướng dẫn sử dụng:</strong></p><p>– Rã đông tự nhiên</p><p>– Dùng để chiên, bỏ lẩu, tẩm bột, kết hợp được nhiều món</p><p>– Dùng với nước tương hay tương ớt. Dùng để nấu canh, lẩu các loại.</p>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-05T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0xe6d1f6edfd46c72938f9d7f0d97cb3b466a308c8a0b2ea5631d5200faca4b0cf",
+  "filletsInPacket": 3,
+  "numberOfPackets": 31,
+  "totalOfPackets": 42,
+  "processingContract": "0x3072e236D4d452251b4530EE7696BfB023962c22",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYM3qWmCwXF2qKNjnBKhfDJtPnAunArWLUw7FzLD8VDn1",
+  "disable": false,
+  "listing": true,
+  "createdAt": {
+    "$date": "2023-06-29T09:21:36.488Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T03:05:35.674Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "649d4d84d39dcad4f013ad96"
+  },
+  "fishProcessorId": {
+    "$oid": "649c000e38766b0bca5abc10"
+  },
+  "processedSpeciesName": "Basa Vĩnh Hoàn",
+  "description": "<ol><li><a href=\"https://online2.mmvietnam.com/san-pham/mm-thang-long/phi-le-ca-basa-vinh-hoan-goi-1-kg-616869/\">Phi lê cá basa Vĩnh Hoàn, gói 1kg</a></li></ol>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-21T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0xe6d1f6edfd46c72938f9d7f0d97cb3b466a308c8a0b2ea5631d5200faca4b0cf",
+  "filletsInPacket": 2,
+  "numberOfPackets": 33,
+  "totalOfPackets": 33,
+  "processingContract": "0x2508377DA4c7d416EccD03BB7F5cF8e90D19fA18",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmbx9D7HxVQw5w4WhKJfYGik414VMMgx4osa7ugULhoCSk",
+  "disable": false,
+  "listing": true,
+  "createdAt": {
+    "$date": "2023-06-29T09:23:16.377Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T04:13:07.962Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "649d5246d39dcad4f013b41d"
+  },
+  "fishProcessorId": {
+    "$oid": "649d4dc0d39dcad4f013ae73"
+  },
+  "processedSpeciesName": "Cá Trắm Giòn",
+  "description": "<p>Cá Trắm Giòn Fillet (cá Giòn Fillet)</p><p>Sản xuất đóng gói: Công ty Phúc Thịnh</p><p>Qui cách: 500gr/vỉ và miếng 1/2 con cá</p><p>Bảo quản:&nbsp; -180C hoặc ngăn đá tủ lạnh</p><p>Hạn sử dụng: 1 năm kể từ ngày sản xuất</p>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "dateOfProcessing": {
+    "$date": "2023-06-28T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-09-19T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0x007de185f4336c1dd32bf7450bba43ea14210ec7c34d3a8b75e355d7df2ee0e4",
+  "filletsInPacket": 2,
+  "numberOfPackets": 32,
+  "totalOfPackets": 42,
+  "processingContract": "0x0F8dFFC434752f4427eF540C77877494C8507630",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYbcFhM6hfmtr2hk5t9iLqFSk3gZPER4wi7hxuh8B7bdx",
+  "disable": false,
+  "listing": false,
+  "createdAt": {
+    "$date": "2023-06-29T09:43:34.076Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T03:59:52.213Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+},
+{
+  "_id": {
+    "$oid": "64d34eefa6cc325bfb61a329"
+  },
+  "fishProcessorId": {
+    "$oid": "64d34e36a6cc325bfb61a18c"
+  },
+  "processedSpeciesName": "Cá tuyết tươi",
+  "description": "<p>Thịt cá tuyết tươi ngon</p>",
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "fishProcessor": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "owner": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "dateOfProcessing": {
+    "$date": "2023-08-08T17:00:00.000Z"
+  },
+  "dateOfExpiry": {
+    "$date": "2023-08-23T17:00:00.000Z"
+  },
+  "farmedFishPurchaseOrderID": "0xf2d8277f3120c350595960132cd070682f1df38cdb8b01b1101c25a44d53dadb",
+  "filletsInPacket": 2,
+  "numberOfPackets": 100,
+  "totalOfPackets": 100,
+  "processingContract": "0xF901104ed26A1Ef5cF20e3d79209Ef46D44Bd7ce",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTBfWtRF52HBeKdeSXcMP7oVSNy6dH5StksAuUDRi5mik",
+  "disable": true,
+  "listing": false,
+  "createdAt": {
+    "$date": "2023-08-09T08:31:43.748Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-24T07:48:33.771Z"
+  },
+  "__v": 0,
+  "qrCode": "data:image/png;base64,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"
+}]

@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "email": null,
+  "emailVerfied": false,
+  "address": "0xfa95ea6c318f993ccf9b1c70cf258e27552c18c6",
+  "avatar": "https://gateway.pinata.cloud/ipfs/QmNvhAoPyX25hzPah2zRtcA7oVmnDKVXH2hcj41yJ9jgKS",
+  "cover": "https://picsum.photos/1500/800",
+  "name": "Phoenix Innovations",
+  "nonce": 837710,
+  "bio": "<p>Phoenix Innovations is a dynamic research and development company specializing in breakthrough technologies. We strive to redefine industries through our cutting-edge inventions and drive positive change on a global scale.</p>",
+  "phone": "(555) 321-0987",
+  "userAddress": "987 Maple Avenue, Progress City, State, 45678",
+  "role": "Fish Seed Company",
+  "createdAt": {
+    "$date": "2023-05-28T15:21:18.808Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T04:09:19.625Z"
+  },
+  "__v": 0,
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "email": null,
+  "emailVerfied": false,
+  "address": "0x2c7ea2df29bf93beb7d6143a9a1cb890ce1cc09b",
+  "avatar": "https://picsum.photos/600/600",
+  "cover": "https://picsum.photos/1500/800",
+  "name": "VentureWorks",
+  "nonce": 190862,
+  "bio": "<p>VentureWorks is a cutting-edge technology company specializing in software development and innovation. Our team of experts creates robust solutions that empower businesses to thrive in the digital age.</p>",
+  "phone": "(555) 123-4567",
+  "userAddress": "123 Main Street, Cityville, State, 12345",
+  "role": "Fish Farmer",
+  "createdAt": {
+    "$date": "2023-05-28T15:37:15.208Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-03T17:37:51.883Z"
+  },
+  "__v": 0,
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "email": null,
+  "emailVerfied": false,
+  "address": "0x5c709933f7e5c53219d38f77e6092571bd63c8ec",
+  "avatar": "https://gateway.pinata.cloud/ipfs/QmVfFcq71qKDkZGYphphUsuTRp4HyqSx1aiXBMzUHWdcd5",
+  "cover": "https://picsum.photos/1500/800",
+  "name": "Stellar Solutions",
+  "nonce": 129531,
+  "bio": "<p>Stellar Solutions is a leading provider of cloud-based services and IT solutions. We assist businesses in streamlining their operations and enhancing productivity with our reliable and scalable technologies.</p>",
+  "phone": "(555) 987-6543",
+  "userAddress": "789 Elm Avenue, Townsville, State, 54321",
+  "role": "Fish Processor",
+  "createdAt": {
+    "$date": "2023-05-28T15:38:28.172Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-29T07:33:01.381Z"
+  },
+  "__v": 0,
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "64737b323cd010a5929d9a9b"
+  },
+  "email": null,
+  "emailVerfied": false,
+  "address": "0x385f9e735e308cd60465134e39a23a520cfc21bf",
+  "avatar": "https://gateway.pinata.cloud/ipfs/Qmd9VRYx4bf4mJkP8jBYvn9fKZxunW78BBy3rFpgE7uhDM",
+  "cover": "https://picsum.photos/1500/800",
+  "name": "Quantum Enterprises",
+  "nonce": 213695,
+  "bio": "<p>Quantum Enterprises is a leading provider of advanced engineering solutions and cutting-edge technologies. We specialize in quantum computing, artificial intelligence, and robotics, revolutionizing industries across the globe.</p>",
+  "phone": "(555) 210-5432",
+  "userAddress": "321 Pine Lane, Urbantown, State, 98765",
+  "role": "Distributor",
+  "createdAt": {
+    "$date": "2023-05-28T16:02:58.797Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T10:55:36.625Z"
+  },
+  "__v": 0,
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "64737ba93cd010a5929d9d13"
+  },
+  "email": null,
+  "emailVerfied": false,
+  "address": "0xd5acee02eda2810b4a71f2315c1c692f91cf3966",
+  "avatar": "https://gateway.pinata.cloud/ipfs/QmctmbJ76Pd1ced2ibvqs95fi69DjPYqEhuZP82HTNWnRY",
+  "cover": "https://picsum.photos/1500/800",
+  "name": "GlobalGenius",
+  "nonce": 566511,
+  "bio": "<p>GlobalGenius is an international consulting firm that offers strategic guidance and innovative solutions to organizations worldwide. Our experienced consultants help businesses unlock their full potential and achieve sustainable growth.</p>",
+  "phone": "(555) 567-8901",
+  "userAddress": "456 Oak Street, Megacity, State, 67890",
+  "role": "Retailer",
+  "createdAt": {
+    "$date": "2023-05-28T16:04:57.240Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T10:49:36.826Z"
+  },
+  "__v": 0,
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "647b625ef5457f3e785a71ed"
+  },
+  "email": null,
+  "emailVerfied": false,
+  "address": "0xeca4064744523db273c845890c1e27c6e4c963c3",
+  "avatar": "https://picsum.photos/600/600",
+  "cover": "https://picsum.photos/1500/800",
+  "name": null,
+  "nonce": 517570,
+  "bio": null,
+  "phone": null,
+  "userAddress": null,
+  "role": "FDA",
+  "createdAt": {
+    "$date": "2023-06-03T15:55:10.052Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-03T15:55:12.450Z"
+  },
+  "__v": 0,
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "6485a8af3522959049078de2"
+  },
+  "email": null,
+  "emailVerfied": false,
+  "address": "0x5f2e09ece176878385fa3864084c310075a8eeb1",
+  "avatar": "https://picsum.photos/600/600",
+  "cover": "https://picsum.photos/1500/800",
+  "name": null,
+  "nonce": 314745,
+  "bio": null,
+  "phone": null,
+  "userAddress": null,
+  "role": "Distributor",
+  "active": true,
+  "createdAt": {
+    "$date": "2023-06-11T10:57:51.335Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T10:57:55.118Z"
+  },
+  "__v": 0
+}]

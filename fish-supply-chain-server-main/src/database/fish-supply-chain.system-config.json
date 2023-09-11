@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "63a2e869a90d52c4c72eaa8a"
+  },
+  "registrationContract": "0xA31D300fC786B9af33b38C27679d32b7cEDB061A",
+  "createdAt": {
+    "$date": "2022-12-21T11:05:13.783Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-21T11:05:13.783Z"
+  },
+  "__v": 0
+}]

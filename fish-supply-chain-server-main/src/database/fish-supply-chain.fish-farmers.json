@@ -1,0 +1,631 @@
+[{
+  "_id": {
+    "$oid": "648585a347bd01ca94cc9280"
+  },
+  "fishSeedPurchaseOrderId": "0x29fdd91a1900a166bd020f971ebdd37b94bf65d60425f4568f0164f1e6ee46b3",
+  "farmedFishId": {
+    "$oid": "6485852f47bd01ca94cc91c6"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 150,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 18,
+  "speciesName": "Amphiprioninae (various species)",
+  "geographicOrigin": 2,
+  "methodOfReproduction": 0,
+  "waterTemperature": 24,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmeuawD3nLXRM4eMysHvuBZxs6a8ptKtsxW1rSxmtsgwaz",
+  "orderable": true,
+  "transactionHash": "0x73266ba18d4a46abf9fb69222d00663298a6fcb82bf45eb6734b5a640dcc44ca",
+  "createdAt": {
+    "$date": "2023-06-11T08:28:19.074Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:39:29.223Z"
+  },
+  "__v": 0,
+  "farmedFishGrowthDetailsID": "0xb03dde303a3be7b6fa8eb268730c4a3dd3532d057dcb5a6c5a13a2ec7f242cc8",
+  "fishWeight": 2,
+  "updater": {
+    "$oid": "647375743cd010a5929d94bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "649be056fd6bb352b8fe69a9"
+  },
+  "fishSeedPurchaseOrderId": "0xfdef67259eb3fbcd2d4730605189feed9e8532d144650043cd94f2a02d53ff56",
+  "farmedFishId": {
+    "$oid": "649bafd4315c7e0d3c70b6ee"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 1234,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 935,
+  "speciesName": "Cá trê (Catfish)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 1,
+  "waterTemperature": 23,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmdYBKswPBXzvv4s3cTWTpdfC2bo5AkyegopbUKqeZUEZj",
+  "orderable": true,
+  "transactionHash": "0xee36b9184fb785fed61406e622ce6d8bf20c5892bb3a75b52c389c8db8df7e0f",
+  "createdAt": {
+    "$date": "2023-06-28T07:25:10.021Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:41:08.525Z"
+  },
+  "__v": 0,
+  "farmedFishGrowthDetailsID": "0x85be03a310401d6ebc1ef3608e06b36fb2c3ac126d622f23ab515c07fffe19da",
+  "fishWeight": 2,
+  "updater": {
+    "$oid": "647375743cd010a5929d94bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "649be07cfd6bb352b8fe6a46"
+  },
+  "fishSeedPurchaseOrderId": "0x5cbc130bd4c875f98aedfe40d71b730986366d0ec6ee487342be233775a877c5",
+  "farmedFishId": {
+    "$oid": "649bae20315c7e0d3c70b617"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 25,
+  "fishSeedsPurchaseOrderDetailsStatus": 1,
+  "totalNumberOfFish": 25,
+  "speciesName": "Cá trắm (Snapper)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "waterTemperature": 25,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmQdcmeazE56BMHFZ3KGoMFnxqYhH9FsLnGUjavVyqUaFq",
+  "orderable": false,
+  "transactionHash": "0x9d363808bdca58391bf1bf033ae22d268f52ce45a9df708cfa00c9b2ee28d18e",
+  "createdAt": {
+    "$date": "2023-06-28T07:25:48.896Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T08:12:46.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649be098fd6bb352b8fe6acf"
+  },
+  "fishSeedPurchaseOrderId": "0x30a0b4bd3a4a00d2afb43212824b2b8a4e291e6e38247af3d95364770d5da603",
+  "farmedFishId": {
+    "$oid": "649badf6315c7e0d3c70b5e0"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 23,
+  "fishSeedsPurchaseOrderDetailsStatus": 2,
+  "totalNumberOfFish": 23,
+  "speciesName": "Oncorhynchus mykiss",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "waterTemperature": 15,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmbdgWu5hBBqkkexCk2pK9bcCrbb87wL5MdckB82nogdyU",
+  "orderable": false,
+  "transactionHash": "0x3e4243e2b27786e312bc86d7e145d9441a54ff50efb44cae8c09ace085ae2d33",
+  "createdAt": {
+    "$date": "2023-06-28T07:26:16.325Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T07:26:16.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649be0bffd6bb352b8fe6b63"
+  },
+  "fishSeedPurchaseOrderId": "0x9bbb550604dc9ce14595894d77078596db1aa7df0e14a888ef08c3ca614c3dcb",
+  "farmedFishId": {
+    "$oid": "649bad2c315c7e0d3c70b589"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 25,
+  "fishSeedsPurchaseOrderDetailsStatus": 1,
+  "totalNumberOfFish": 25,
+  "speciesName": "Cá trích (Tilapia)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 1,
+  "waterTemperature": 22,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmX5WNUo3kvk799Ff7wFVg3LBAQJ3s1sKnmMx3usthbjss",
+  "orderable": false,
+  "transactionHash": "0x2dc671c34c31d09d03abeef3aae85a84f248d371f4018e273fdcb9ebd0a2b3bb",
+  "createdAt": {
+    "$date": "2023-06-28T07:26:55.874Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T08:00:30.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649be0e3fd6bb352b8fe6bfe"
+  },
+  "fishSeedPurchaseOrderId": "0xc5d2e5322803afff072a917f3035725bb9398a534c602562d5840a486b5917c4",
+  "farmedFishId": {
+    "$oid": "649bacf1315c7e0d3c70b53f"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 750,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 570,
+  "speciesName": "Cá basa (Pangasius bocourti)",
+  "geographicOrigin": 2,
+  "methodOfReproduction": 1,
+  "waterTemperature": 29,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/Qmayn221KcoUmKWJDrRq8QbgSCip9mp27T85Vo9P1M13AH",
+  "orderable": true,
+  "transactionHash": "0x5d5a12cac5a16e7f9eeccdd2c63efe1eb577c7833d3cecbad36e4f19a2ceb3b0",
+  "createdAt": {
+    "$date": "2023-06-28T07:27:31.384Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:39:49.282Z"
+  },
+  "__v": 0,
+  "updater": {
+    "$oid": "647375743cd010a5929d94bd"
+  },
+  "farmedFishGrowthDetailsID": "0xa8a66a2b9fda336e2897d4081e0236dde6304b67238d12be02ba97268b05ca60",
+  "fishWeight": 1
+},
+{
+  "_id": {
+    "$oid": "649be126fd6bb352b8fe6dd3"
+  },
+  "fishSeedPurchaseOrderId": "0x4e4a0c203c551bcfe4e54420d6204d1768bafdc272654cea72532fccf4636c0b",
+  "farmedFishId": {
+    "$oid": "649bafd4315c7e0d3c70b6ee"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 236,
+  "fishSeedsPurchaseOrderDetailsStatus": 1,
+  "totalNumberOfFish": 236,
+  "speciesName": "Cá trê (Catfish)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 1,
+  "waterTemperature": 23,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmZtF93ATGX6JkuFLyF9oCiQXXamVZPvfgjSfsk5VGyhe4",
+  "orderable": false,
+  "transactionHash": "0x87180ffcacc391a6006043b502fb3ab63c8516599ae201f74127d9181fc67dd4",
+  "createdAt": {
+    "$date": "2023-06-28T07:28:38.313Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T07:37:47.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649be1adfd6bb352b8fe6f48"
+  },
+  "fishSeedPurchaseOrderId": "0x74f35f1c3000391c8b36dcefa6ce010c57a9673322e9ddcb97661d64859f7498",
+  "farmedFishId": {
+    "$oid": "649bacf1315c7e0d3c70b53f"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 37,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 26,
+  "speciesName": "Cá basa (Pangasius bocourti)",
+  "geographicOrigin": 2,
+  "methodOfReproduction": 1,
+  "waterTemperature": 29,
+  "IPFSHash": "QmUXvXNRqVutYjLfdXiLktqDbXXo4bP5XN3AG3SC9qfCeu",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmdesiQf8z1CFmBW4ViLjQhS3xyra5dCXgLrS7VN3QowLm",
+  "orderable": true,
+  "transactionHash": "0xb62e5516dc7b341237284f3d54dc18407441b8313ca948d1508eefe42ebd8b3d",
+  "createdAt": {
+    "$date": "2023-06-28T07:30:53.129Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:40:30.022Z"
+  },
+  "__v": 0,
+  "farmedFishGrowthDetailsID": "0x3287a3794e057a3b550844683d9644833a35d813687d01f0d605fb3513bcf7c0",
+  "fishWeight": 3,
+  "updater": {
+    "$oid": "647375743cd010a5929d94bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "649be1dbfd6bb352b8fe7061"
+  },
+  "fishSeedPurchaseOrderId": "0x17e1569b398981917be81f6b616be3f7b72a30831520a4602d6a3d37a772791b",
+  "farmedFishId": {
+    "$oid": "649bad11315c7e0d3c70b563"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 362,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 162,
+  "speciesName": "Cá hồi (Salmon)",
+  "geographicOrigin": 0,
+  "methodOfReproduction": 1,
+  "waterTemperature": 22,
+  "IPFSHash": "QmfLcZdNaDA2B2eeJ8eeAQ4CXcSV8aVv6DTVW1bModeGei",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmfLHYSwyGexBassN5yrtYDvL5zBehqe7MABREHH3exbB3",
+  "orderable": true,
+  "transactionHash": "0x6ea4758884b96aac621dca3e0545f35f816fce9bf0f1fec67922800891d7b5ad",
+  "createdAt": {
+    "$date": "2023-06-28T07:31:39.338Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:54:41.847Z"
+  },
+  "__v": 0,
+  "farmedFishGrowthDetailsID": "0x92e65444a5467b9c5bf80dcce051885d3422b2c212c96394a1d2b36e18358f4b",
+  "fishWeight": 4,
+  "updater": {
+    "$oid": "647375743cd010a5929d94bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "649bed30fd6bb352b8fe8062"
+  },
+  "fishSeedPurchaseOrderId": "0x8a0980a7cc5f0032d136f6ddfe8a6448836d55f02bc649c416aefdab1758d8fc",
+  "farmedFishId": {
+    "$oid": "649bafd4315c7e0d3c70b6ee"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 213,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 111,
+  "speciesName": "Cá trê (Catfish)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 1,
+  "waterTemperature": 23,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmdYBKswPBXzvv4s3cTWTpdfC2bo5AkyegopbUKqeZUEZj",
+  "orderable": true,
+  "transactionHash": "0x1b4f8aeb3ea46380f2001f148d7ce74130af48f4891ba85b24a629ea72dc170e",
+  "createdAt": {
+    "$date": "2023-06-28T08:20:00.002Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T09:38:27.075Z"
+  },
+  "__v": 0,
+  "farmedFishGrowthDetailsID": "0x22319be7c0652599d48cd2e3893de0a882cd4232c849db951add636ece61dd50",
+  "fishWeight": 1,
+  "updater": {
+    "$oid": "647375743cd010a5929d94bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "649bed4cfd6bb352b8fe80fb"
+  },
+  "fishSeedPurchaseOrderId": "0x285d2b01018f1a97965b214fc7d792eb6e6bb8559ecb632ad7d0d274d968ca5b",
+  "farmedFishId": {
+    "$oid": "649baefd315c7e0d3c70b656"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 543,
+  "fishSeedsPurchaseOrderDetailsStatus": 0,
+  "totalNumberOfFish": 543,
+  "speciesName": "Cá vàng (Carassius auratus)",
+  "geographicOrigin": 0,
+  "methodOfReproduction": 0,
+  "waterTemperature": 20,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmNPBqXG9m2ZzBFZUWiatNAxPXQtTWbXArUzSdgic4bdXC",
+  "orderable": false,
+  "transactionHash": "0xb27813b85be65bae03b605e594f50fd4bcb9427df4519e144030e2df3a2d2da4",
+  "createdAt": {
+    "$date": "2023-06-28T08:20:28.114Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T08:21:51.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649bed6bfd6bb352b8fe8180"
+  },
+  "fishSeedPurchaseOrderId": "0x6a83ade9aa77a5c6a713591212cd6f44dfa0236680fe7783e7af0e6c219628de",
+  "farmedFishId": {
+    "$oid": "649bae20315c7e0d3c70b617"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 12,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 3,
+  "speciesName": "Cá trắm (Snapper)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "waterTemperature": 25,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmTY9TZZpfmPW77tDZDLp5MgBUFbvHporCs3kTPmkbP1qp",
+  "orderable": true,
+  "transactionHash": "0x73a6c30d289f98d75b991c0de5b3cd71dc285307e1c1007356d4e1cb36214967",
+  "createdAt": {
+    "$date": "2023-06-28T08:20:59.687Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-29T09:24:16.072Z"
+  },
+  "__v": 0,
+  "farmedFishGrowthDetailsID": "0xbd8b421504969fe02d1bbe7765517f1c1e873f2c1b1322694e44398ecfb4b58e",
+  "fishWeight": 4,
+  "updater": {
+    "$oid": "647375743cd010a5929d94bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ad30d673b752def7ced114"
+  },
+  "fishSeedPurchaseOrderId": "0x9743940a2ded7dd4f781fa08d2c6e48f8b4cec900c48c7fbca48dc474664fdf5",
+  "farmedFishId": {
+    "$oid": "64ad306573b752def7ced094"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 2,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 2,
+  "speciesName": "Cá trắm (Snapper)",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "waterTemperature": 25,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmTY9TZZpfmPW77tDZDLp5MgBUFbvHporCs3kTPmkbP1qp",
+  "orderable": true,
+  "transactionHash": "0x9d9a049b7cc233d000bb4872f1e8d0bb7222bdcc371faedec3e39ce030813701",
+  "createdAt": {
+    "$date": "2023-07-11T10:37:10.983Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-11T10:40:39.697Z"
+  },
+  "__v": 0,
+  "farmedFishGrowthDetailsID": "0xb3582761ed02c84d877c26528d3f2a138d1ee7fecbdf0c5a66f6f59d56d5e6b1",
+  "fishWeight": 1,
+  "updater": {
+    "$oid": "6473752b3cd010a5929d9382"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d34ceca6cc325bfb619cab"
+  },
+  "fishSeedPurchaseOrderId": "0xf13d4e8b699fbb0787d4b9e2faf074d710d87965038cf013b2c4b02b3d4e8959",
+  "farmedFishId": {
+    "$oid": "64d34c6ea6cc325bfb619c08"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 4,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 1,
+  "speciesName": "Cá tuyết",
+  "geographicOrigin": 1,
+  "methodOfReproduction": 0,
+  "waterTemperature": 21,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmQJEDpeEuQDvENx63qtGj5voSk8MuadA26JXcpbgkSGv4",
+  "orderable": true,
+  "transactionHash": "0x9be4c5c1d28b9f0c897bc82f1a5b9f035cd9e682d502c6bc633f7194a11f2133",
+  "createdAt": {
+    "$date": "2023-08-09T08:23:08.917Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T08:28:38.710Z"
+  },
+  "__v": 0,
+  "farmedFishGrowthDetailsID": "0x391680fa81fefae6ba984717ee96600d369844b336539d050654befbe6304d3e",
+  "fishWeight": 2,
+  "updater": {
+    "$oid": "647375743cd010a5929d94bd"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d448c1efd21fdc38c84d39"
+  },
+  "fishSeedPurchaseOrderId": "0x715600a6f32a261773544e2f51af36d5f0b016a15b503ad2c51eea82ed390f9b",
+  "farmedFishId": {
+    "$oid": "64d4487eefd21fdc38c84cbf"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 8,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 8,
+  "speciesName": "Cá bơn",
+  "geographicOrigin": 0,
+  "methodOfReproduction": 0,
+  "waterTemperature": 22,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmTY9TZZpfmPW77tDZDLp5MgBUFbvHporCs3kTPmkbP1qp",
+  "orderable": true,
+  "transactionHash": "0xb3a93be6672e20103c1c769786ed0ca0872b15a15f9a0cb63294b9006a1e08a5",
+  "createdAt": {
+    "$date": "2023-08-10T02:17:37.725Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T02:20:28.926Z"
+  },
+  "__v": 0,
+  "farmedFishGrowthDetailsID": "0xf6fc57460b9685596b3d3c727f184c12b2e60d8b001f1d222ca324e0601ad048",
+  "fishWeight": 1,
+  "updater": {
+    "$oid": "6473752b3cd010a5929d9382"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d45262efd21fdc38c85847"
+  },
+  "fishSeedPurchaseOrderId": "0x82c2db35357ff198ea09a1e210974a42ec0a876197b6eb0343472edd1f1aae7d",
+  "farmedFishId": {
+    "$oid": "64d4522aefd21fdc38c857cd"
+  },
+  "fishSeedsPurchaser": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "fishSeedsSeller": {
+    "$oid": "6473716ee1dce0cacb650494"
+  },
+  "numberOfFishSeedsOrdered": 8,
+  "fishSeedsPurchaseOrderDetailsStatus": 4,
+  "totalNumberOfFish": 8,
+  "speciesName": "Cá basa",
+  "geographicOrigin": 0,
+  "methodOfReproduction": 0,
+  "waterTemperature": 22,
+  "IPFSHash": "QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ",
+  "owner": {
+    "$oid": "6473752b3cd010a5929d9382"
+  },
+  "image": "https://gateway.pinata.cloud/ipfs/QmTY9TZZpfmPW77tDZDLp5MgBUFbvHporCs3kTPmkbP1qp",
+  "orderable": true,
+  "transactionHash": "0xbfe15b8ed5d03d05ac2837c9bc3a17e96d4057f26989f4711b2e653f80e2be34",
+  "createdAt": {
+    "$date": "2023-08-10T02:58:42.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-10T03:01:38.076Z"
+  },
+  "__v": 0,
+  "farmedFishGrowthDetailsID": "0x4e8f0348330d3196b0d9bf93b516b7eb1ebe1b968c9583243f6e0ce4a3e772a7",
+  "fishWeight": 1,
+  "updater": {
+    "$oid": "6473752b3cd010a5929d9382"
+  }
+}]
